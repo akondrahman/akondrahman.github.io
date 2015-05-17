@@ -1,0 +1,5 @@
+#!/bin/bash
+#memory tracer for MySQL using ps
+while true; do 
+	ps -o rss, min_flt, size, vsize $(pgrep mysqld) >> ps_mem_log.txt
+done &
