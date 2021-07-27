@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/    
+
+  - title: "Research Group"
+    url: /paser/    
+
+  - title: "Service"
+    url: /service/    
+
+  - title: "CV"
+    url: /files/cv.pdf
