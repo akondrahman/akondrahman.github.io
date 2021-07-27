@@ -11,9 +11,9 @@ title                    : "Akond Rahman"
 title_separator          : "-"
 name                     : &name "Akond Rahman"
 description              : &description "Personal website of Akond Rahman"
-url                      : https://paser-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://akondrahman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "paser-group/paser-group.github.io"
+repository               : "akondrahman/akondrahman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
