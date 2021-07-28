@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there :wave: ! I am Akond, an assistant professor in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/). I am also a faculty associate at [CEROC](https://www.tntech.edu/ceroc/). 
+Hi there! I am Akond, an assistant professor in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/). I am also a faculty associate at [CEROC](https://www.tntech.edu/ceroc/). 
 
 Research Interests 
 ======
-My research interests include **DevOps** and **Secure Software Development**.
-I rely on a wide range of techniques, such as constraint solving, program analysis, qualitative analysis, statistical methods, and machine learning techniques to conduct my research activities.
+My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as constraint solving, program analysis, qualitative analysis, and statistical methods to pursue my research goals. 
 
 
 Academic Achievements
