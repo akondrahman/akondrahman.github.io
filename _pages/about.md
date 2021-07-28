@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Akond, an assistant professor in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/). I am also a faculty associate at [CEROC](https://www.tntech.edu/ceroc/). 
+Hi there :wave: ! I am Akond, an assistant professor in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/). I am also a faculty associate at [CEROC](https://www.tntech.edu/ceroc/). 
 
 Research Interests 
 ======
