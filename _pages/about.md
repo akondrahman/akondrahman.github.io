@@ -33,6 +33,7 @@ and M.Sc. at [University of Connecticut](http://uconn.edu/).
 
 Latest 
 ======
+- I am co-chairing the Diversity and Inclusion panel of [ICSME 2021](https://icsme2021.github.io/index.html). Come and join us on Sep 27 - Oct 01, 2021!
 - July 19, 2021: Congratulations to Brinto for his paper acceptance at FIE 2021! 
 - June 26, 2021: Congratulations to Justin and Raunak for succesfully defending their M.Sc. thesis! 
 - June 24, 2021: Congrats to Shamim for his student research paper accepted at ESEC/FSE!     
