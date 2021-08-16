@@ -13,6 +13,7 @@ Research Grant Review
 Program Committee Assignment
 ======
 
+10. *PC Member*, IEEE International Conference on Software Maintenance and Evolution 2021 (ICSME 2021)
 9. *Associate Program Chair*, 26th Annual Conference on Innovation and Technology in Computer Science Education (ITiCSE 2021), 
 8. *PC Member - Technical Track [Distinguished Reviewer Award](https://twitter.com/msrconf/status/1390444181655539716)*, Mining Software Repositories 2021 (MSR2021)
 7. *PC Member*, SIGCSE Technical Symposium 2021 (SIGCSE 2021)
@@ -28,9 +29,9 @@ Reviewer
 ======
 8. IEEE Transactions on Software Engineering (TSE) 2020, 2021
 7. ACM Transactions on Software Engineering and Methodology (TOSEM) 2020, 2021
-6. Information Technology and Management (ITEM) 2020
-5. Science of Computer Programming (SCIP) 2020
-4. IEEE Access 2020
+6. Journal of Information Technology and Management (ITEM) 2020
+5. Journal of Science of Computer Programming (SCIP) 2020
+4. Journal of IEEE Access 2020
 3. IEEE Software 2018, 2019, 2020
 2. Journal of Systems and Software (JSS) 2019, 2020, 2021 
 1. Communications of the ACM (CACM) 2019
