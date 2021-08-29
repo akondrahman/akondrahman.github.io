@@ -33,11 +33,10 @@ and M.Sc. at [University of Connecticut](https://uconn.edu/).
 
 Latest 
 ======
+- Aug 29, 2021: Congratulations to Samim for winning an [award](https://twitter.com/Sharma__Tushar/status/1431224348426129416) at ESEC/FSE 2021! 
 - Aug 07, 2021: Congratulations to Lamia for getting her paper accepted at SecDev 2021! 
 - Aug 01, 2021: I am co-chairing the Diversity and Inclusion panel of [ICSME 2021](https://icsme2021.github.io/index.html). Come and join us on Sep 27 - Oct 01, 2021!
 - July 19, 2021: Congratulations to Brinto for his paper acceptance at FIE 2021! 
 - June 26, 2021: Congratulations to Justin and Raunak for succesfully defending their M.Sc. thesis! 
-- June 24, 2021: Congrats to Shamim for his student research competition (SRC) paper accepted at ESEC/FSE!     
 - May 07, 2021: I was selected as a Distinguished Reviewer for the 2021 Mining Software Repositories Conference (MSR)!    
-- Feb 26, 2021: Two ICSE workshop papers accepted ... congrats Brinto, Shamim, Justin, and Farzana!   
 - Sep 02, 2020: SaTC:TTP proposal funded by the National Science Foundation (NSF)!  
