@@ -33,7 +33,9 @@ and M.Sc. at [University of Connecticut](https://uconn.edu/).
 
 Latest 
 ======
-- Aug 29, 2021: Congratulations to Samim for winning an [award](https://twitter.com/Sharma__Tushar/status/1431224348426129416) at ESEC/FSE 2021! 
+
+- Aug 29, 2021: Congratulations to Shamim for winning an [award](https://twitter.com/Sharma__Tushar/status/1431224348426129416) at ESEC/FSE 2021! 
+- Aug 26, 2021: Our work on defect categorization for Puppet mansifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html) 
 - Aug 07, 2021: Congratulations to Lamia for getting her paper accepted at SecDev 2021! 
 - Aug 01, 2021: I am co-chairing the Diversity and Inclusion panel of [ICSME 2021](https://icsme2021.github.io/index.html). Come and join us on Sep 27 - Oct 01, 2021!
 - July 19, 2021: Congratulations to Brinto for his paper acceptance at FIE 2021! 

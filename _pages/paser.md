@@ -27,7 +27,7 @@ Alumni
 ======
 
 3. Justin Murphy (M. Sc.), currently at [CISA, DHS](https://www.cisa.gov/)
-2. Raunak Shakya (M. Sc.), currently at [TBD](TBD)
+2. Raunak Shakya (M. Sc.), currently at [MineralWare](https://mineralware.com/)
 1. Anceito Rivera (B.Sc.), currently at [SAIC](https://www.saic.com/)
 
 Awarded External Grants
