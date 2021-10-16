@@ -20,7 +20,7 @@ Academic Achievements
 I was awarded the NC State CSC Outstanding Dissertation Award and the
 [NC State College of Engineering Distinguished Dissertation Award](https://tinyurl.com/akond-coe)
 from NC State University for my PhD dissertation titled [Anti-patterns in Infrastructure as Code](https://repository.lib.ncsu.edu/handle/1840.20/36715).
-Previousy, I won the [ACM SIGSOFT Distinguished Paper Award](https://2019.icse-conferences.org/info/awards) at ICSE 2019.
+Previously, I won the [ACM SIGSOFT Distinguished Paper Award](https://2019.icse-conferences.org/info/awards) at ICSE 2019.
 I am also winner of the ACM SIGSOFT Doctoral Symposium Award at ICSE 2018, and the [Microsoft Open Source Challenge Grand Prize](https://www.microsoft.com/en-us/research/blog/opening-the-door-to-innovation-winners-of-the-first-microsoft-open-source-challenge-announced/) in 2016. 
 
 
