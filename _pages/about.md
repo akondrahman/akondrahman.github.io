@@ -34,11 +34,12 @@ and M.Sc. at [University of Connecticut](https://uconn.edu/).
 Latest 
 ======
 
+- Oct 20, 2021: I have been invited as a guest speaker at the Dagstuhl 2021 seminar on 'Resilient Software Configuration and Infrastructure Code Analysis'.  
+- Oct 10, 2021: I was invited as a guest speaker at Wind River to discuss our ongoing research projects related IaC.  
 - Aug 29, 2021: Congratulations to Shamim for winning an [award](https://twitter.com/Sharma__Tushar/status/1431224348426129416) at ESEC/FSE 2021! 
 - Aug 26, 2021: Our work on defect categorization for Puppet mansifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html) 
 - Aug 07, 2021: Congratulations to Lamia for getting her paper accepted at SecDev 2021! 
 - Aug 01, 2021: I am co-chairing the Diversity and Inclusion panel of [ICSME 2021](https://icsme2021.github.io/index.html). Come and join us on Sep 27 - Oct 01, 2021!
 - July 19, 2021: Congratulations to Brinto for his paper acceptance at FIE 2021! 
 - June 26, 2021: Congratulations to Justin and Raunak for succesfully defending their M.Sc. thesis! 
-- May 07, 2021: I was selected as a Distinguished Reviewer for the 2021 Mining Software Repositories Conference (MSR)!    
-- Sep 02, 2020: SaTC:TTP proposal funded by the National Science Foundation (NSF)!  
+- May 07, 2021: I was selected as a Distinguished Reviewer for the 2021 Mining Software Repositories Conference (MSR)!     
