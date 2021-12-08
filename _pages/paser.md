@@ -18,10 +18,11 @@ Advisees
 
 Collaborators
 ======
-1. Dibyendu Brinto Bose, Software Engineer, Reeve Systems, Bangladesh 
-2. Effat Farhana, Post-doctoral Scholar, Vanderbilt University, TN [Website](https://dblp.org/pers/hd/f/Farhana:Effat)
-3. Patrick Morisson, Software Engineer, IBM [Website](https://scholar.google.com/citations?user=N-QmPiUAAAAJ&hl=en)
-4. Chris Parnin, Associate Professor, NC State University, NC [Website](http://chrisparnin.me/)
+1. Dibyendu Brinto Bose, Software Engineer, Reeve Systems, Bangladesh [Web](https://www.linkedin.com/in/dibyendu-brinto-bose-0b815b116/)
+2. Effat Farhana, Post-doctoral Scholar, Vanderbilt University, TN [Web](https://dblp.org/pers/hd/f/Farhana:Effat)
+3. Patrick Morisson, Software Engineer, IBM [Web](https://scholar.google.com/citations?user=N-QmPiUAAAAJ&hl=en)
+4. Chris Parnin, Associate Professor, NC State University, NC [Web](http://chrisparnin.me/)
+5. Hossain Shahriar, Associate Professor, Kennesaw State University, NC [Web](http://ksuweb.kennesaw.edu/~hshahria/)
 
 Alumni
 ======

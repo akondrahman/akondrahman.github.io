@@ -26,16 +26,15 @@ I am also winner of the ACM SIGSOFT Doctoral Symposium Award at ICSE 2018, and t
 
 Background
 ======
-I completed my PhD at North Carolina State University. I was supervised by [Dr. Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/). I was born in [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh), a beautiful country in South Asia.
-I completed my B.Sc. at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/),
-and M.Sc. at [University of Connecticut](https://uconn.edu/). 
+I completed my PhD in Computer Science at [North Carolina State University](https://www.csc.ncsu.edu/). I was supervised by [Dr. Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/). I was born in [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh), a beautiful country in South Asia. I completed my B.Sc. at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/), and M.Sc. at [University of Connecticut](https://uconn.edu/). 
 
 
 Latest 
 ======
-
-- Oct 20, 2021: I have been invited as a guest speaker at the Dagstuhl 2021 seminar on 'Resilient Software Configuration and Infrastructure Code Analysis'.  
-- Oct 10, 2021: I was invited as a guest speaker at Wind River to discuss our ongoing research projects related IaC.  
+- Dec 07, 2021: Our paper on Ansible test quality has been accepted to ICST 2022! Congrats to Mehedi !!   
+- Dec 06, 2021: I have been invited as a guest speaker at University of Kentucky to talk about my research on quality assurance for infrastructure as code.   
+- Oct 20, 2021: I have been invited as a guest speaker at the Dagstuhl 2021 seminar on [Resilient Software Configuration and Infrastructure Code Analysis](https://www.dagstuhl.de/program/calendar/partlist/?semnr=21482&SUOG).  
+- Oct 10, 2021: I was invited as a guest speaker at [WindRiver](https://www.windriver.com/) to discuss our ongoing research projects related IaC.  
 - Aug 29, 2021: Congratulations to Shamim for winning an [award](https://twitter.com/Sharma__Tushar/status/1431224348426129416) at ESEC/FSE 2021! 
 - Aug 26, 2021: Our work on defect categorization for Puppet mansifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html) 
 - Aug 07, 2021: Congratulations to Lamia for getting her paper accepted at SecDev 2021! 
