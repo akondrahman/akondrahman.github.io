@@ -12,6 +12,14 @@ author_profile: true
 {% include base_path %}
 
 
+2022
+---
+{% for post in site.publications reversed %}
+  {% if post.year == 2022 %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 2021
 ---
 {% for post in site.publications reversed %}
