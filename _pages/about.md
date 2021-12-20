@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- Dec 17, 2021: Our paper summarizing research related to Puppet quality accepted at SANER 2022!    
 - Dec 07, 2021: Our paper on Ansible test quality has been accepted to ICST 2022! Congrats to Mehedi !!   
 - Dec 06, 2021: I have been invited as a guest speaker at University of Kentucky to talk about my research on quality assurance for infrastructure as code.   
 - Oct 20, 2021: I have been invited as a guest speaker at the Dagstuhl 2021 seminar on [Resilient Software Configuration and Infrastructure Code Analysis](https://www.dagstuhl.de/program/calendar/partlist/?semnr=21482&SUOG).  
