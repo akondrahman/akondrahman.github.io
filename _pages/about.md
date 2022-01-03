@@ -26,7 +26,7 @@ I am also winner of the ACM SIGSOFT Doctoral Symposium Award at ICSE 2018, and t
 
 Background
 ======
-I completed my PhD in Computer Science at [North Carolina State University](https://www.csc.ncsu.edu/). I was supervised by [Dr. Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/). I was born in [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh), a beautiful country in South Asia. I completed my B.Sc. at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/), and M.Sc. at [University of Connecticut](https://uconn.edu/). 
+I completed my PhD in Computer Science at [North Carolina State University](https://www.csc.ncsu.edu/), where I was supervised by [Dr. Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/). I was born in [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh), a beautiful country in South Asia. I completed my B.Sc. at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/), and M.Sc. at [University of Connecticut](https://uconn.edu/). 
 
 
 Latest 

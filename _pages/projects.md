@@ -14,11 +14,14 @@ eSLIC: Enhanced Security Static Analysis for Configuration Scripts
 
 Abstract 
 ---
-The project will focus on the development of techniques and tools that will automatically detect security weaknesses in configuration scripts developed using a wide range of languages heavily used in industry. Three main tasks will be investigated for this project. First, qualitative analysis is applied in order to determine a comprehensive list of security weaknesses for multiple configuration script languages, and devise static analysis techniques for automatically identifying each category of security weakness. Next, grammar-based parsing and machine learning techniques are applied, evaluated, and integrated into the derived static analysis so that false positives are reduced. Finally, the development context of practitioners from the open source and proprietary domain will be systematically mined to generate actionable alerts and suggestions, which will enable practitioners to fix security weaknesses. Along with the three technical tasks, industry panels will be organized, where practitioners from industry will give feedback on the developed techniques and tools. Findings from the project will be disseminated to government, industry and open source practitioners, as well as to students who are learning about configuration management in graduate and undergraduate level courses related to cybersecurity
+The project will focus on the development of techniques and tools that will automatically detect security weaknesses in configuration scripts developed using a wide range of languages heavily used in industry. Three main tasks will be investigated for this project. First, qualitative analysis is applied in order to determine a comprehensive list of security weaknesses for multiple configuration script languages, and devise static analysis techniques for automatically identifying each category of security weakness. Next, grammar-based parsing and machine learning techniques are applied, evaluated, and integrated into the derived static analysis so that false positives are reduced. Finally, the development context of practitioners from the open source and proprietary domain will be systematically mined to generate actionable alerts and suggestions, which will enable practitioners to fix security weaknesses. Along with the three technical tasks, industry panels will be organized, where practitioners from industry will give feedback on the developed techniques and tools. Findings from the project will be disseminated to government, industry and open source practitioners, as well as to students who are learning about configuration management in graduate and undergraduate level courses related to cybersecurity. 
 
 
 Relevant Peer-reviewed Publications 
 ---
+- [ICST2022](/files/papers/icst2022-tama.pdf)
+- [SANER2022](/files/papers/saner2022.pdf)
+- [SecDev2021](/files/papers/secdev2021.pdf)
 - [S&P2021](/files/papers/slic-sp2021.pdf)
 - [FIE2021](/files/papers/fie2021.pdf)
 - [QUATIC2021](/files/papers/quatic2021.pdf)
