@@ -18,17 +18,18 @@ Advisees
 
 Collaborators
 ======
-1. Dibyendu Brinto Bose, Software Engineer, Reeve Systems, Bangladesh [Web](https://www.linkedin.com/in/dibyendu-brinto-bose-0b815b116/)
+1. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
 2. Effat Farhana, Post-doctoral Scholar, Vanderbilt University, TN [Web](https://dblp.org/pers/hd/f/Farhana:Effat)
-3. Patrick Morisson, Software Engineer, IBM [Web](https://scholar.google.com/citations?user=N-QmPiUAAAAJ&hl=en)
+3. Fan Wu, Professor and Department Head, Tuskegee University [Web](https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science/computer-science-faculty-staff/wu-fan-phd)
 4. Chris Parnin, Associate Professor, NC State University, NC [Web](http://chrisparnin.me/)
-5. Hossain Shahriar, Associate Professor, Kennesaw State University, NC [Web](http://ksuweb.kennesaw.edu/~hshahria/)
+5. Hossain Shahriar, Associate Professor, Kennesaw State University, GA [Web](http://ksuweb.kennesaw.edu/~hshahria/)
 
 Alumni
 ======
 
-3. Justin Murphy (M. Sc.), currently at [CISA, DHS](https://www.cisa.gov/)
-2. Raunak Shakya (M. Sc.), currently at [MineralWare](https://mineralware.com/)
+4. Dibyendu Brinto Bose (B.Sc.), currently at [TBD](https://www.linkedin.com/in/dibyendu-brinto-bose-0b815b116/)
+3. Justin Murphy (M.Sc.), currently at [CISA, DHS](https://www.cisa.gov/)
+2. Raunak Shakya (M.Sc.), currently at [MineralWare](https://mineralware.com/)
 1. Anceito Rivera (B.Sc.), currently at [SAIC](https://www.saic.com/)
 
 Awarded External Grants
