@@ -53,6 +53,7 @@ Julia is an emerging programming language that was designed to provide programmi
 Relevant Peer-reviewed Publications 
 ---
 - [HOTSOS2020](/files/papers/hotsos2020_scisoft.pdf)
+- [ACMSE2022](/files/papers/julia-acmse2022.pdf)
 
 Datasets and Software
 ---
