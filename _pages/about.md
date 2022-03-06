@@ -48,4 +48,4 @@ Latest
 
 Sponsor 
 ======
-![U.S. National Science Foundation (NSF)](nsf.png)
+![U.S. National Science Foundation (NSF)](files/nsf.png)
