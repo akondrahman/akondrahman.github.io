@@ -48,4 +48,4 @@ Latest
 
 Sponsor 
 ======
-![NSF](files/nsf.png){:width="25%" height="25%"} 
+![NSF](files/nsf.png){:width="10%" height="10%"} 
