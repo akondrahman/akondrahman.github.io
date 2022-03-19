@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- Mar 17, 2022: I presented my research on secure configuration management at the [Women in Cybersecurity](https://www.wicys.org/events/wicys-2022/conference-schedule/) conference 2022! 
 - Mar 06, 2022: I will serve on the program committee for [ICSME 2022](https://cyprusconferences.org/icsme2022/call-for-research-track/). Please submit your papers!    
 - Mar 02, 2022: I presented my work on secure software education at the [CAPEC Program User Summit](https://capec.mitre.org/news/index.html)
 - Dec 17, 2021: Our paper summarizing research related to Puppet quality accepted at SANER 2022!    
