@@ -31,13 +31,12 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- April 03, 2022: Our paper on secure machine learning development got accepted at COMPSAC 2022! Congrats to Farzana !!    
 - Mar 17, 2022: I presented my research on secure configuration management at the [Women in Cybersecurity](https://www.wicys.org/events/wicys-2022/conference-schedule/) conference 2022! 
 - Mar 06, 2022: I will serve on the program committee for [ICSME 2022](https://cyprusconferences.org/icsme2022/call-for-research-track/). Please submit your papers!    
 - Mar 02, 2022: I presented my work on secure software education at the [CAPEC Program User Summit](https://capec.mitre.org/news/index.html)
 - Dec 17, 2021: Our paper summarizing research related to Puppet quality accepted at SANER 2022!    
 - Dec 07, 2021: Our paper on Ansible test quality has been accepted to ICST 2022! Congrats to Mehedi !!   
-- Dec 06, 2021: I have been invited as a guest speaker at University of Kentucky to talk about my research on quality assurance for infrastructure as code.   
-- Oct 20, 2021: I have been invited as a guest speaker at the Dagstuhl 2021 seminar on [Resilient Software Configuration and Infrastructure Code Analysis](https://www.dagstuhl.de/program/calendar/partlist/?semnr=21482&SUOG).  
 - Oct 10, 2021: I was invited as a guest speaker at [WindRiver](https://www.windriver.com/) to discuss our ongoing research projects related IaC.  
 - Aug 29, 2021: Congratulations to Shamim for winning an [award](https://twitter.com/Sharma__Tushar/status/1431224348426129416) at ESEC/FSE 2021! 
 - Aug 26, 2021: Our work on defect categorization for Puppet mansifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html) 
