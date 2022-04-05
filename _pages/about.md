@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- April 05, 2022: Our paper on educating students on secure configuration management got accepted at ITiCSE 2022!     
 - April 03, 2022: Our paper on secure machine learning development got accepted at COMPSAC 2022! Congrats to Farzana !!    
 - Mar 17, 2022: I presented my research on secure configuration management at the [Women in Cybersecurity](https://www.wicys.org/events/wicys-2022/conference-schedule/) conference 2022! 
 - Mar 06, 2022: I will serve on the program committee for [ICSME 2022](https://cyprusconferences.org/icsme2022/call-for-research-track/). Please submit your papers!    

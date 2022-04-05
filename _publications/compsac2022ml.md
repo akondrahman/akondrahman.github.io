@@ -2,7 +2,7 @@
 title: "Shifting Left for Machine Learning: An Empirical Study of Security Weaknesses in Supervised Learning-based Projects"
 collection: publications
 permalink: /publication/compsac2022ml
-date: 2022-04-25
+date: 2022-04-06
 venue: '46th IEEE Computer Society Computers, Software, and Applications Conference (COMPSAC)'
 paperurl: '/files/papers/compsac2022-ml.pdf'
 authors: Farzana Ahamed Bhuiyan, Stacey Prowell, Hossain Shahriar, Fan Wu, and Akond Rahman
