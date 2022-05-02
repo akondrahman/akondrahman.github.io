@@ -6,6 +6,7 @@ date: 2021-01-01
 venue: 'Journal of ACM Transactions on Software Engineering and Methodology (TOSEM)'
 paperurl: 'https://arxiv.org/pdf/1907.07159.pdf'
 authors: Akond Rahman, Md. Rayhanur Rahman, Chirs Parnin, and Laurie Williams
+award: Covered by Hacking Security News 
 year: 2021
 index: 41
 --- 

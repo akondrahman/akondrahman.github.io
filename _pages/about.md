@@ -12,7 +12,7 @@ Hi there! I am Akond, an assistant professor in the [Department of Computer Scie
 
 Research Interests 
 ======
-My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as constraint solving, program analysis, qualitative analysis, and statistical methods to pursue my research goals. 
+My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as constraint solving, model checking, program analysis, qualitative analysis, and statistical methods to pursue my research goals. 
 
 
 Academic Achievements
@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- April 11, 2022: I presented my research on Julia bugs at the [U.S. Research Software Engineers (RSE) Forum](https://us-rse.org/events/2022/2022-04-community-call/)! 
 - April 05, 2022: Our paper on educating students on secure configuration management got accepted at ITiCSE 2022!     
 - April 03, 2022: Our paper on secure machine learning development got accepted at COMPSAC 2022! Congrats to Farzana !!    
 - Mar 17, 2022: I presented my research on secure configuration management at the [Women in Cybersecurity](https://www.wicys.org/events/wicys-2022/conference-schedule/) conference 2022! 
