@@ -79,11 +79,12 @@ analytics:
 
 
 # Site Author
+# To change link colors when you change universities use this: https://jayrobwilliams.com/posts/2020/07/customizing-website/
 author:
   name             : "Akond Rahman"
   avatar           : "akond.png"
-  bio              : "Assistant Professor, Tennessee Tech. University"
-  location         : "Cookeville, TN, USA"
+  bio              : "Assistant Professor, Auburn University"
+  location         : "Auburn, AL, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6yZrePQAAAAJ"

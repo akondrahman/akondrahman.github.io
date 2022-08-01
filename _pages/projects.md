@@ -42,6 +42,51 @@ Funding Source
 ---
 [SaTC: TTP: Award - 2026869](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026869&HistoricalAwards=false)
 
+Resilient Container Orchestration 
+======
+
+Abstract
+---
+
+Container technologies, such as Docker and LXC are gaining popularity amongst information technology (IT) organizations for deploying software applications. For example, PayPal uses 200,000 containers to manage 700 software applications. For managing these containers at scale, practitioners often use automated container orchestration, i.e, the practice of pragmatically managing the lifecycle of containers with tools, such as Docker Swarm and Kubernetes. As part of this project we are investigating how to help practitioners for resilient container orchestration. As part of this project, we will accomplish three tasks: (i) detecting and repairing security misconfigurations that occur in configuration files used for container orchestration; (ii) build the science of routing-related defects; and (iii) construct education modules to help next generation practitioners in secure and resilient container orchestration.    
+
+
+Relevant Peer-reviewed Publications 
+---
+- [ENCYCRIS2021](/files/papers/k8s-encycris2021.pdf)
+- [SecDev2020](https://arxiv.org/pdf/2006.15275.pdf)
+
+
+Datasets and Software
+---
+- [Vulnerbility Dataset for Kubernetes](https://doi.org/10.6084/m9.figshare.13447796.v1)  
+
+Funding Source
+---
+[SaTC: EDU: Award - 2209636](https://nsf.gov/awardsearch/showAward?AWD_ID=2209636&HistoricalAwards=false)
+
+
+
+Secure Development of Machine Learning Projects 
+======
+
+Abstract
+---
+The ubiquitous use of machine learning necessitates to make the development process secure. In this project we are exploring so strategies used to secure the development process for traditional software engineering can also be integrated in machine learning development. In particular, we are investigating (i) how to perform logging to diagnose adversarial machine learning attacks and formally verify security specifications in machine learning implementations, (ii) common security weaknesses in machine learning source code, and (iii) identifying testing best practices for automating machine learning deployments.  
+
+Relevant Peer-reviewed Publications 
+---
+- [AI/ML @ COMPSAC2022](/files/papers/bots-mlops2022.pdf)
+- [COMPSAC2022](/files/papers/compsac2022-ml.pdf)
+- [ENCYCRIS2021](/files/papers/strategy-encycris2021.pdf)
+- [HCSE2020](/files/papers/strategy-hcse2020.pdf)
+- [HOTSOS2020](/files/papers/hotsos2020_strategy.pdf)
+
+
+Datasets and Software
+---
+To be available soon. 
+
 
 Building the Foundations of Validation for the Julia Ecosystem
 ======
@@ -56,26 +101,6 @@ Relevant Peer-reviewed Publications
 ---
 - [HOTSOS2020](/files/papers/hotsos2020_scisoft.pdf)
 - [ACMSE2022](/files/papers/julia-acmse2022.pdf)
-
-Datasets and Software
----
-To be available soon. 
-
-
-
-Secure Development of Machine Learning Projects 
-======
-
-Abstract
----
-The ubiquitous use of machine learning necessitates to make the development process secure. In this project we are exploring so strategies used to secure the development process for traditional software engineering can also be integrated in machine learning development. In particular, we are investigating how to perform logging to diagnose adversarial machine learning attacks and formally verify security specifications in machine learning implementations. 
-
-Relevant Peer-reviewed Publications 
----
-- [ENCYCRIS2021](/files/papers/strategy-encycris2021.pdf)
-- [HCSE2020](/files/papers/strategy-hcse2020.pdf)
-- [HOTSOS2020](/files/papers/hotsos2020_strategy.pdf)
-
 
 Datasets and Software
 ---

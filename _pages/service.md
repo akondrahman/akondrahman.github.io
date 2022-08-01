@@ -7,7 +7,7 @@ author_profile: true
 
 Research Grant Review
 ======
-2. Panelist, National Science Foundation (NSF), 2021
+2. Panelist, National Science Foundation (NSF), 2021, 2022 
 1. Reviewer, National Aeronautics and Space Administration (NASA), 2020
 
 Program Committee Assignment
@@ -27,19 +27,19 @@ Program Committee Assignment
 
 Reviewer
 ======
-8. IEEE Transactions on Software Engineering (TSE) 2020, 2021
-7. ACM Transactions on Software Engineering and Methodology (TOSEM) 2020, 2021
+9. IEEE Transactions on Software Engineering (TSE) 2020, 2021
+8. ACM Transactions on Software Engineering and Methodology (TOSEM) 2020, 2021
+7. Journal of Grid Computing 2022
 6. Journal of Information Technology and Management (ITEM) 2020
 5. Journal of Science of Computer Programming (SCIP) 2020
 4. Journal of IEEE Access 2020
 3. IEEE Software 2018, 2019, 2020
-2. Journal of Systems and Software (JSS) 2019, 2020, 2021 
+2. Journal of Systems and Software (JSS) 2019, 2020, 2021, 2022
 1. Communications of the ACM (CACM) 2019
 
 Dissertation Committee Assignment
 ======
-10. *Chair*, Farzana Ahamed Bhuiyan (Ph.D.), Tennessee Tech University
-9. *Chair*, Farhat Lamia Barsha (Ph.D.), Tennessee Tech University
+9. *Chair*, Farzana Ahamed Bhuiyan (Ph.D.), Tennessee Tech University
 8. *Chair*, Md. Shazibul Islam Shamim (Ph.D.), Tennessee Tech University
 7. *Chair*, Justin Murphy (M.Sc.), Tennessee Tech University
 6. *Chair*, Raunak Shakya (M.Sc.), Tennessee Tech University
@@ -54,3 +54,7 @@ Departmental Committee Assignment
 ======
 2. *Member*, Undergraduate Scholarship Committee, Department of Computer Science, Tennessee Tech University
 1. *Member*, Graduate Executive Committee, Department of Computer Science, Tennessee Tech University
+
+Others
+======
+1. Disucssion co-lead, `Software and Hardware Supply Chain Security', [SaTC PI Breakout Meeting](https://cps-vo.org/group/satc-pimtg22/breakouts) 2022 

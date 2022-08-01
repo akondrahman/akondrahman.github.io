@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Akond, an assistant professor in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/). I am also a faculty associate at [CEROC](https://www.tntech.edu/ceroc/). 
+Hi there! I am Akond, an assistant professor in the [Department of Computer Science and Software Engineering (CSSE)](https://www.eng.auburn.edu/comp/) at [Auburn University](https://eng.auburn.edu/). 
 
 Research Interests 
 ======
-My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as constraint solving, model checking, program analysis, qualitative analysis, and statistical methods to pursue my research goals. 
+My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as constraint solving, model checking, program analysis, qualitative analysis, and statistical methods to pursue my research goals. My research is supported by the U.S. National Science Foundation (NSF).  
 
 
 Academic Achievements
@@ -31,20 +31,23 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
-- April 11, 2022: I presented my research on Julia bugs at the [U.S. Research Software Engineers (RSE) Forum](https://us-rse.org/events/2022/2022-04-community-call/)! 
-- April 05, 2022: Our paper on educating students on secure configuration management got accepted at ITiCSE 2022!     
-- April 03, 2022: Our paper on secure machine learning development got accepted at COMPSAC 2022! Congrats to Farzana !!    
-- Mar 17, 2022: I presented my research on secure configuration management at the [Women in Cybersecurity](https://www.wicys.org/events/wicys-2022/conference-schedule/) conference 2022! 
-- Mar 06, 2022: I will serve on the program committee for [ICSME 2022](https://cyprusconferences.org/icsme2022/call-for-research-track/). Please submit your papers!    
-- Mar 02, 2022: I presented my work on secure software education at the [CAPEC Program User Summit](https://capec.mitre.org/news/index.html)
-- Dec 17, 2021: Our paper summarizing research related to Puppet quality accepted at SANER 2022!    
-- Dec 07, 2021: Our paper on Ansible test quality has been accepted to ICST 2022! Congrats to Mehedi !!   
+- June 15, 2022: Our SATC grant was funded. Thanks NSF! 
+- May 31, 2022: I will be a disucssion co-lead in the [SaTC PI Breakout Meeting](https://cps-vo.org/group/satc-pimtg22/breakouts). See you in Washington D.C. if you are around.  
+- May 05, 2022: Congratulations to Farzana for succesfully defending their Ph.D. thesis.  
+- April 11, 2022: I presented my research on Julia bugs at the [U.S. Research Software Engineers (RSE) Forum](https://us-rse.org/events/2022/2022-04-community-call/).
+- April 05, 2022: Our paper on educating students on secure configuration management got accepted at ITiCSE 2022. 
+- April 03, 2022: Our paper on secure machine learning development got accepted at COMPSAC 2022. Congrats to Farzana !
+- Mar 17, 2022: I presented my research on secure configuration management at the [Women in Cybersecurity](https://www.wicys.org/events/wicys-2022/conference-schedule/) conference 2022.
+- Mar 06, 2022: I will serve on the program committee for [ICSME 2022](https://cyprusconferences.org/icsme2022/call-for-research-track/). Please submit your papers.    
+- Mar 02, 2022: I presented my work on secure software education at the [CAPEC Program User Summit](https://capec.mitre.org/news/index.html). 
+- Dec 17, 2021: Our paper summarizing research related to Puppet quality accepted at SANER 2022. 
+- Dec 07, 2021: Our paper on Ansible test quality has been accepted to ICST 2022. Congrats to Mehedi !   
 - Oct 10, 2021: I was invited as a guest speaker at [WindRiver](https://www.windriver.com/) to discuss our ongoing research projects related IaC.  
-- Aug 29, 2021: Congratulations to Shamim for winning an [award](https://twitter.com/Sharma__Tushar/status/1431224348426129416) at ESEC/FSE 2021! 
-- Aug 26, 2021: Our work on defect categorization for Puppet mansifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html) 
-- July 19, 2021: Congratulations to Brinto for his paper acceptance at FIE 2021! 
-- June 26, 2021: Congratulations to Justin and Raunak for succesfully defending their M.Sc. thesis! 
-- May 07, 2021: I was selected as a Distinguished Reviewer for the 2021 Mining Software Repositories Conference (MSR)!     
+- Aug 29, 2021: Congratulations to Shamim for winning an [award](https://twitter.com/Sharma__Tushar/status/1431224348426129416) at ESEC/FSE 2021. 
+- Aug 26, 2021: Our work on defect categorization for Puppet mansifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html).  
+- July 19, 2021: Congratulations to Brinto for his paper acceptance at FIE 2021. 
+- June 26, 2021: Congratulations to Justin and Raunak for succesfully defending their M.Sc. thesis.  
+- May 07, 2021: I was selected as a Distinguished Reviewer for the 2021 Mining Software Repositories Conference (MSR). 
 
 
 
