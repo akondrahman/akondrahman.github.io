@@ -12,7 +12,7 @@ Hi there! I am Akond, an assistant professor in the [Department of Computer Scie
 
 Research Interests 
 ======
-My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as constraint solving, model checking, program analysis, qualitative analysis, and statistical methods to pursue my research goals. My research is supported by the U.S. National Science Foundation (NSF).  
+My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as model checking, program analysis, and statistical methods to pursue my research goals. My research is supported by the U.S. National Science Foundation (NSF).  
 
 
 Academic Achievements
