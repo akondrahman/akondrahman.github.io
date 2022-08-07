@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- Aug 01, 2022: Started as a tenure-track assistant professor at Auburn University.  
 - June 15, 2022: Our SATC grant was funded. Thanks NSF! 
 - May 31, 2022: I will be a disucssion co-lead in the [SaTC PI Breakout Meeting](https://cps-vo.org/group/satc-pimtg22/breakouts). See you in Washington D.C. if you are around.  
 - May 05, 2022: Congratulations to Farzana for succesfully defending their Ph.D. thesis.  
