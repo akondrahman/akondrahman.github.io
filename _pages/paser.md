@@ -5,39 +5,38 @@ excerpt: ""
 author_profile: true
 ---
 
-I lead the **P**ractical and **A**ctionable **S**oftware **E**ngineering **R**esearch (**PASER**) group at Tennessee Tech University. Members of the PASER group work on software engineering research problems that have implications for practitioners. 
+I lead the **P**ractical and **A**ctionable **S**oftware **E**ngineering **R**esearch (**PASER**) group at Auburn University. Members of the PASER group work on software engineering research problems that have implications for practitioners. 
 
 
 
 Advisees
 ======
+1. Shazibul Islam Shamim, PhD Student, Auburn University [Website](https://shazibulislam.github.io/)
 
-1. Farzana Ahmed Bhuiyan, PhD Student, Tennessee Tech University [Website](https://fbhuiyan42.github.io/)
-2. Shazibul Islam Shamim, PhD Student, Tennessee Tech University [Website](https://shazibulislam.github.io/)
-3. Farhat Lamia Barsha, PhD Student, Tennessee Tech University
 
 Collaborators
 ======
-1. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
-2. Effat Farhana, Post-doctoral Scholar, Vanderbilt University, TN [Web](https://dblp.org/pers/hd/f/Farhana:Effat)
-3. Fan Wu, Professor and Department Head, Tuskegee University [Web](https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science/computer-science-faculty-staff/wu-fan-phd)
-4. Chris Parnin, Associate Professor, NC State University, NC [Web](http://chrisparnin.me/)
-5. Hossain Shahriar, Associate Professor, Kennesaw State University, GA [Web](http://ksuweb.kennesaw.edu/~hshahria/)
+1. Rahul Pandita, Staff Researcher, GitHub, USA [Web](http://rahulpandita.me/)
+2. Chris Parnin, Principal Researcher, Microsoft Research, USA [Web](http://chrisparnin.me/)
+3. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
+4. Hossain Shahriar, Associate Professor, Kennesaw State University, GA [Web](http://ksuweb.kennesaw.edu/~hshahria/)
+5. Fan Wu, Professor and Department Head, Tuskegee University [Web](https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science/computer-science-faculty-staff/wu-fan-phd)
 
 Alumni
 ======
-
-4. Dibyendu Brinto Bose (B.Sc.), currently at [TBD](https://www.linkedin.com/in/dibyendu-brinto-bose-0b815b116/)
-3. Justin Murphy (M.Sc.), currently at [CISA, DHS](https://www.cisa.gov/)
-2. Raunak Shakya (M.Sc.), currently at [MineralWare](https://mineralware.com/)
-1. Anceito Rivera (B.Sc.), currently at [SAIC](https://www.saic.com/)
+5. Farzana Ahmed Bhuiyan (PhD), currently at [Meta (formerly known as Facebook)](https://facebook.com)
+4. Dibyendu Brinto Bose (BSc), currently at [Virginia Tech](https://cs.vt.edu/)
+3. Justin Murphy (MSc), currently at [CISA, DHS](https://www.cisa.gov/)
+2. Raunak Shakya (MSc), currently at [MineralWare](https://mineralware.com/)
+1. Anceito Rivera (BSc), currently at [SAIC](https://www.saic.com/)
 
 Awarded External Grants
 ======
 
-3. **Co-PI**, [Tennessee Tech Cybercorps Renewal: An Enahnced and Integrated Scholar Experience in Cybersecurity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2043324), National Science Foundation (Aug 2021 - Jul 2026), Amount: 4,359,294 USD. PI: Ambareen Siraj, Co-PI: Denis Ulybychev, Eric Brown, Maanak Gupta (Tennessee Tech University) 
-2. **PI**, [Cybersecurity Mini Grant (Sub-award)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730105), National Science Foundation (Dec 2020 - Mar 2021), Amount: 5,000 USD. Co-PI: Dennis Ulybychev (Tennessee Tech University) 
-1. **PI**, [SaTC: TTP: Small: eSLIC: Enhanced Security Static Analysis for Detecting Insecure Configuration Scripts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026869), National Science Foundation (Oct 2020 - Sep 2023). Co-PI: Chris Parnin (NC State University), Amount: 444,720 USD (Total), 244,742 USD (Share of Tennessee Tech University). 
+4. **Lead PI**, [SaTC: EDU: Authentic Learning Modules for DevOps Security Education](https://nsf.gov/awardsearch/showAward?AWD_ID=2209636&HistoricalAwards=false), National Science Foundation (June 2022 - Sep 2025). Co-PI: Hossain Shahriar (Kennessaw State University) and Fan Wu (Tuskegee University), Amount: 399,882 USD (Total), 154,006 USD (Share of Auburn University). 
+3. **Co-PI**, [Tennessee Tech Cybercorps Renewal: An Enahnced and Integrated Scholar Experience in Cybersecurity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2043324), National Science Foundation (July 2021 - Jul 2022), Amount: 1,917,081 USD. PI: Muhammad Ismail, Co-PI: Denis Ulybychev, Eric Brown, Maanak Gupta (Tennessee Tech University) 
+2. **Lead PI**, [Cybersecurity Mini Grant (Sub-award)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730105), National Science Foundation (Dec 2020 - Mar 2021), Amount: 5,000 USD. Co-PI: Dennis Ulybychev (Tennessee Tech University) 
+1. **Lead PI**, [SaTC: TTP: Small: eSLIC: Enhanced Security Static Analysis for Detecting Insecure Configuration Scripts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026869), National Science Foundation (Oct 2020 - Sep 2023). Co-PI: Chris Parnin (NC State University), Amount: 444,720 USD (Total), 180,000 USD (Share of Auburn University). 
 
 
 Noteworthy Achievements of PASERs 
