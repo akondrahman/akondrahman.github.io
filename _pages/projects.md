@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-The **P**ractical and **A**ctionable **S**oftware **E**ngineering **R**esearch (**PASER**) group at Tennessee Tech University is currently pursuing the following research projects. 
+The **P**ractical and **A**ctionable **S**oftware **E**ngineering **R**esearch (**PASER**) group at Auburn University is currently pursuing the following research projects. 
 
 
 
@@ -88,7 +88,7 @@ Datasets and Software
 To be available soon. 
 
 
-Building the Foundations of Validation for the Julia Ecosystem
+<!-- Building the Foundations of Validation for the Julia Ecosystem 
 ======
 
 Abstract
@@ -105,3 +105,5 @@ Relevant Peer-reviewed Publications
 Datasets and Software
 ---
 To be available soon. 
+
+-->
