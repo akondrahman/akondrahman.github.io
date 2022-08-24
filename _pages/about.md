@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Akond, an assistant professor in the [Department of Computer Science and Software Engineering (CSSE)](https://www.eng.auburn.edu/comp/) at [Auburn University](https://eng.auburn.edu/). 
+Hi there! I am Akond, an assistant professor in the [Department of Computer Science and Software Engineering (CSSE)](https://www.eng.auburn.edu/comp/) at [Auburn University](https://eng.auburn.edu/). I am also a faculty member at the [Auburn Cyber Research Center](https://www.eng.auburn.edu/research/centers/auburn-cyber-research-center/index.html).  
 
 Research Interests 
 ======
