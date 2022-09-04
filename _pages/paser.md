@@ -11,7 +11,7 @@ I lead the **P**ractical and **A**ctionable **S**oftware **E**ngineering **R**es
 
 Advisees
 ======
-1. Shazibul Islam Shamim, PhD Student, Auburn University [Website](https://shazibulislam.github.io/)
+1. Shazibul Islam Shamim, PhD Student, Auburn University [Web](https://shazibulislam.github.io/)
 
 
 Collaborators
@@ -24,11 +24,12 @@ Collaborators
 
 Alumni
 ======
-5. Farzana Ahmed Bhuiyan (PhD), currently at [Meta (formerly known as Facebook)](https://facebook.com)
-4. Dibyendu Brinto Bose (BSc), currently at [Virginia Tech](https://cs.vt.edu/)
-3. Justin Murphy (MSc), currently at [CISA, DHS](https://www.cisa.gov/)
-2. Raunak Shakya (MSc), currently at [MineralWare](https://mineralware.com/)
-1. Anceito Rivera (BSc), currently at [SAIC](https://www.saic.com/)
+1. Farzana Ahmed Bhuiyan (PhD), first appointment at [Meta (formerly known as Facebook)](https://facebook.com)
+2. Dibyendu Brinto Bose (BSc), first appointment at [Virginia Tech](https://cs.vt.edu/)
+3. Carlos Medrano (BSc), first appointment at [Google](https://sre.google/)
+4. Justin Murphy (MSc), first appointment at [CISA, DHS](https://www.cisa.gov/)
+5. Raunak Shakya (MSc), first appointment at [MineralWare](https://mineralware.com/)
+6. Anceito Rivera (BSc), first appointment at [SAIC](https://www.saic.com/)
 
 Awarded External Grants
 ======
