@@ -48,7 +48,8 @@ Latest
 - Aug 26, 2021: Our work on defect categorization for Puppet mansifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html).  
 - July 19, 2021: Congratulations to Brinto for his paper acceptance at FIE 2021. 
 - June 26, 2021: Congratulations to Justin and Raunak for succesfully defending their M.Sc. thesis.  
-- May 07, 2021: I was selected as a Distinguished Reviewer for the 2021 Mining Software Repositories Conference (MSR). 
+- May 07, 2021: I was selected as a Distinguished Reviewer for the 2021 Mining 
+Software Repositories Conference (MSR) 2021. 
 
 
 

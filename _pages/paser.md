@@ -23,12 +23,12 @@ Collaborators
 
 Alumni
 ======
-1. Farzana Ahmed Bhuiyan (PhD), first appointment at [Meta (formerly known as Facebook)](https://facebook.com)
-2. Dibyendu Brinto Bose (BSc), first appointment at [Virginia Tech](https://cs.vt.edu/)
-3. Carlos Medrano (BSc), first appointment at [Google](https://sre.google/)
-4. Justin Murphy (MSc), first appointment at [CISA, DHS](https://www.cisa.gov/)
-5. Raunak Shakya (MSc), first appointment at [MineralWare](https://mineralware.com/)
-6. Anceito Rivera (BSc), first appointment at [SAIC](https://www.saic.com/)
+1. Farzana Ahmed Bhuiyan (PhD), first appointment as `research scientist` at [Meta (formerly known as Facebook)](https://facebook.com)
+2. Dibyendu Brinto Bose (BSc), first appointment as `PhD student` at [Virginia Tech](https://cs.vt.edu/)
+3. Carlos Medrano (BSc), first appointment as `site reliability engineer` at [Google](https://sre.google/)
+4. Justin Murphy (MSc), first appointment as `security analyst` at [CISA, DHS](https://www.cisa.gov/)
+5. Raunak Shakya (MSc), first appointment as `software engineer` at [MineralWare](https://mineralware.com/)
+6. Anceito Rivera (BSc), first appointment as `software engineer` at [SAIC](https://www.saic.com/)
 
 Awarded External Grants
 ======
