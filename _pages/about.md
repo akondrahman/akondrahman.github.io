@@ -34,17 +34,16 @@ Latest
 - Sep 20, 2022: Congrats to Farzana on her first transactions journal (ACM Transactions on Privacy and Security)!  
 - Aug 01, 2022: Started as a tenure-track assistant professor at Auburn University.  
 - June 15, 2022: Our SATC grant was funded. Thanks NSF! 
-- May 31, 2022: I will be a disucssion co-lead in the [SaTC PI Breakout Meeting](https://cps-vo.org/group/satc-pimtg22/breakouts). See you in Washington D.C. if you are around.  
-- May 05, 2022: Congratulations to Farzana for succesfully defending their Ph.D. thesis.  
+- May 31, 2022: I will be a discussion co-lead in the [SaTC PI Breakout Meeting](https://cps-vo.org/group/satc-pimtg22/breakouts). See you in Washington D.C. if you are around.  
+- May 05, 2022: Congratulations to Farzana for successfully defending their Ph.D. thesis.  
 - April 11, 2022: I presented my research on Julia bugs at the [U.S. Research Software Engineers (RSE) Forum](https://us-rse.org/events/2022/2022-04-community-call/).
 - April 05, 2022: Our paper on educating students on secure configuration management got accepted at ITiCSE 2022. 
 - Mar 02, 2022: I presented my work on secure software education at the [CAPEC Program User Summit](https://capec.mitre.org/news/index.html). 
 - Dec 17, 2021: Our paper summarizing research related to Puppet quality accepted at SANER 2022. 
 - Dec 07, 2021: Our paper on Ansible test quality has been accepted to ICST 2022. Congrats to Mehedi !   
 - Oct 10, 2021: I was invited as a guest speaker at [WindRiver](https://www.windriver.com/) to discuss our ongoing research projects related IaC.  
-- Aug 26, 2021: Our work on defect categorization for Puppet mansifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html).  
-- July 19, 2021: Congratulations to Brinto for his paper acceptance at FIE 2021. 
-- June 26, 2021: Congratulations to Justin and Raunak for succesfully defending their M.Sc. thesis.  
+- Aug 26, 2021: Our work on defect categorization for Puppet manifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html).  
+- June 26, 2021: Congratulations to Justin and Raunak for successfully defending their M.Sc. thesis.  
 - May 07, 2021: I was selected as a Distinguished Reviewer for the 2021 Mining 
 Software Repositories Conference (MSR) 2021. 
 

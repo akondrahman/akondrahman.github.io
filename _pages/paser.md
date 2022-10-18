@@ -10,6 +10,7 @@ I lead the **P**ractical and **A**ctionable **S**oftware **E**ngineering **R**es
 
 Advisees
 ======
+2. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
 1. Shazibul Islam Shamim, PhD Student, Auburn University [Web](https://shazibulislam.github.io/)
 
 

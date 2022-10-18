@@ -59,7 +59,7 @@ Relevant Peer-reviewed Publications
 
 Datasets and Software
 ---
-- [Vulnerbility Dataset for Kubernetes](https://doi.org/10.6084/m9.figshare.13447796.v1)  
+- [Vulnerability Dataset for Kubernetes](https://doi.org/10.6084/m9.figshare.13447796.v1)  
 
 Funding Source
 ---
@@ -76,6 +76,7 @@ The ubiquitous use of machine learning necessitates to make the development proc
 
 Relevant Peer-reviewed Publications 
 ---
+- [ACM TOPS 2022](/files/papers/tops2022.pdf)
 - [AI/ML @ COMPSAC2022](/files/papers/bots-mlops2022.pdf)
 - [COMPSAC2022](/files/papers/compsac2022-ml.pdf)
 - [ENCYCRIS2021](/files/papers/strategy-encycris2021.pdf)
@@ -85,7 +86,8 @@ Relevant Peer-reviewed Publications
 
 Datasets and Software
 ---
-To be available soon. 
+- [LOPSUL for Python-based Open Source ML Projects](https://github.com/paser-group/MLForensics) 
+- [Security Weakness Dataset for Open Source ML Projects](https://figshare.com/s/86bea428698b103afb32) 
 
 
 <!-- Building the Foundations of Validation for the Julia Ecosystem 
