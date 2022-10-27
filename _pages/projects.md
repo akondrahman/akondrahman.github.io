@@ -33,7 +33,7 @@ Datasets and Software
 ---
 - [TAMA for Ansible](https://hub.docker.com/r/talismanic/tama)
 - [ACID for Puppet](https://hub.docker.com/repository/docker/akondrahman/acid-puppet)
-- [SLIC for Ansible](https://hub.docker.com/r/akondrahman/slic_ansible)
+- [SLAC for Ansible](https://hub.docker.com/r/akondrahman/slic_ansible)
 - [SLIC for Puppet](https://hub.docker.com/r/akondrahman/ruby_for_sp)
 - [Education Materials for the `Secure Software Development` Course](https://hub.docker.com/repository/docker/akondrahman/sec-soft-edu-materials)
 
