@@ -3,7 +3,7 @@ title: "Security Misconfigurations in Open Source Kubernetes Manifests: An Empir
 collection: publications
 permalink: /publication/tosem-k8s
 date: 2022-10-26
-venue: 'Journal of ACM Transactions on Privacy and Security (TOPS)'
+venue: 'Journal of ACM Transactions on Software Engineering and Methodology (TOSEM)'
 paperurl: '/files/papers/tosem-k8s.pdf'
 authors: Akond Rahman, Shazibul Islam Shamim, Dibyendu Brinto Bose, and Rahul Pandita
 year: 2022
