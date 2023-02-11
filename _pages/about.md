@@ -12,7 +12,7 @@ Hi there! I am Akond, an assistant professor in the [Department of Computer Scie
 
 Research Interests 
 ======
-My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as model checking, program analysis, and statistical methods to pursue my research goals. My research is supported by the U.S. National Science Foundation (NSF).  
+My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as model checking, program analysis, and statistical methods to pursue my research goals. My research is supported by the U.S. National Science Foundation (NSF) and the U.S. National Security Agency (NSA).  
 
 
 Academic Achievements
@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- Feb 10, 2023: Our grant on software supply chain security was funded. Thanks NSA! 
 - Nov 26, 2022: Congrats to Shamim and Brinto on their paper acceptance at the ACM Transactions on Software Engineering and Methodology (TOSEM). 
 - Sep 20, 2022: Congrats to Farzana on her first transactions journal (ACM Transactions on Privacy and Security)!  
 - Aug 01, 2022: Started as a tenure-track assistant professor at Auburn University.  
@@ -48,4 +49,5 @@ Latest
 
 Sponsor 
 ======
-![NSF](files/nsf.png){:width="10%" height="10%"} 
+![NSF](files/nsf.png){:width="10%" height="10%"}  
+![NSA](files/nsa.png){:width="10%" height="10%"} 
