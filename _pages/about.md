@@ -49,5 +49,4 @@ Latest
 
 Sponsor 
 ======
-![NSF](files/nsf.png){:width="10%" height="10%"}  
-![NSA](files/nsa.png){:width="10%" height="10%"} 
+![NSF](files/nsf.png){:width="10%" height="10%"}  ![NSA](files/nsa.png){:width="10%" height="10%"} 
