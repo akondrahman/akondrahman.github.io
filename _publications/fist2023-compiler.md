@@ -2,7 +2,7 @@
 title: "Security Misconfigurations in Open Source Kubernetes Manifests: An Empirical Study"
 collection: publications
 permalink: /publication/fist2023-compiler
-date: 2022-02-01
+date: 2023-02-01
 venue: '2nd International Workshop on the Foundations of Infrastructure Specification and Testing, co-located with the 20th IEEE International Conference on Software Architecture (ICSA 2023)'
 paperurl: '/files/papers/fist2023-compiler.pdf'
 authors: Yue Zhang, Muktadir Rahman, Fan Wu, and Akond Rahman
