@@ -47,6 +47,6 @@ Latest
 
 
 
-Sponsor 
+Sponsors 
 ======
-![NSF](files/nsf.png){:width="10%" height="10%"}       ![NSA](files/nsa.png){:width="10%" height="8%"} 
+![NSF](files/nsf.png){:width="10%" height="10%"}       ![NSA](files/nsa.png){:width="10%" height="7%"} 
