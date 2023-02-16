@@ -20,6 +20,7 @@ Collaborators
 2. Chris Parnin, Principal Researcher, Microsoft Research, USA [Web](http://chrisparnin.me/)
 3. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
 4. Hossain Shahriar, Associate Professor, Kennesaw State University, GA [Web](http://ksuweb.kennesaw.edu/~hshahria/)
+5. Anthony Skjellum, Director, SimCenter; Professor, Computer Science, University of Tennessee at Chattanooga, TN [Web](https://scholar.google.com/citations?user=j74j55gAAAAJ&hl=en)
 5. Fan Wu, Professor and Department Head, Tuskegee University [Web](https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science/computer-science-faculty-staff/wu-fan-phd)
 
 Alumni
@@ -34,11 +35,11 @@ Alumni
 Awarded External Grants
 ======
 
-6. **Co-PI**, Hands-on Learning Modules for Software Supply Chain Security Education, U.S. National Security Agency (February 2023 - August 2025). PI: Hossain Shahriar, and Nazmus Sakib (Kennesaw State University), Amount: 75,000 USD (Total)
+6. **Co-PI**, Hands-on Learning Modules for Software Supply Chain Security Education, U.S. National Security Agency (February 2023 - August 2025). PI: Hossain Shahriar, and Nazmus Sakib (Kennesaw State University), Amount: 75,000 USD (Total), 34,968 USD (Share of Auburn University).
 5. **Lead PI**, [SaTC: EDU: Authentic Learning Modules for DevOps Security Education](https://nsf.gov/awardsearch/showAward?AWD_ID=2209636&HistoricalAwards=false), National Science Foundation (June 2022 - Sep 2025). Co-PI: Hossain Shahriar (Kennessaw State University) and Fan Wu (Tuskegee University), Amount: 399,882 USD (Total), 154,006 USD (Share of Auburn University). 
-4. **Co-PI**, [Tennessee Tech Cybercorps Renewal: An Enahnced and Integrated Scholar Experience in Cybersecurity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2043324), National Science Foundation (July 2021 - Jul 2022), Amount: 1,917,081 USD. PI: Muhammad Ismail, Co-PI: Denis Ulybychev, Eric Brown, Maanak Gupta (Tennessee Tech University) 
+4. **Co-PI**, [Tennessee Tech Cybercorps Renewal: An Enahnced and Integrated Scholar Experience in Cybersecurity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2043324), National Science Foundation (July 2021 - July 2022), Amount: 1,917,081 USD. PI: Muhammad Ismail, Co-PI: Denis Ulybychev, Eric Brown, Maanak Gupta (Tennessee Tech University) 
 3. **Lead PI**, [Cybersecurity Mini Grant (Sub-award)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730105), National Science Foundation (Dec 2020 - Mar 2021), Amount: 5,000 USD. Co-PI: Dennis Ulybychev (Tennessee Tech University) 
-2. **Lead PI**, [SaTC: TTP: Small: eSLIC: Enhanced Security Static Analysis for Detecting Insecure Configuration Scripts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026869), National Science Foundation (Oct 2020 - Sep 2023). Co-PI: Chris Parnin (NC State University), Amount: 444,720 USD (Total), 180,000 USD (Share of Auburn University). 
+2. **Lead PI**, [SaTC: TTP: Small: eSLIC: Enhanced Security Static Analysis for Detecting Insecure Configuration Scripts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026869), National Science Foundation (Oct 2020 - Sep 2023). Co-PI: Chris Parnin (NC State University), Amount: 444,720 USD (Total), 177,995 USD (Share of Auburn University). 
 1. **Co-PI**, EDGE Curriculum Development Grant, Tennessee Tech University (Jan 2020 - May 2020), PI: Maanak Gupta (Tennessee Tech University), Amount: 5,000 USD (Total)
 
 
@@ -59,6 +60,7 @@ Noteworthy Achievements of PASERs
 
 Open Source Software
 ======
+6. [SLI-KUBE for Kubernetes Manifests](https://github.com/paser-group/KubeSec) 
 5. [LOPSUL for Python-based Open Source ML Projects](https://github.com/paser-group/MLForensics) 
 4. [TAMA for Ansible](https://hub.docker.com/r/talismanic/tama)
 3. [SLAC for Ansible](https://hub.docker.com/r/akondrahman/slic_ansible)
