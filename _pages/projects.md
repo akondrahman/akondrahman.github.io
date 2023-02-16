@@ -40,7 +40,8 @@ Datasets and Software
 
 Funding Source
 ---
-[SaTC: TTP: Award - 2026869](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026869&HistoricalAwards=false)
+- [SaTC: TTP: Award - 2247141](https://nsf.gov/awardsearch/showAward?AWD_ID=2247141&HistoricalAwards=false)
+- NSA Award - H98230-21-1-0175
 
 Resilient Container Orchestration 
 ======
@@ -53,17 +54,20 @@ Container technologies, such as Docker and LXC are gaining popularity amongst in
 
 Relevant Peer-reviewed Publications 
 ---
+- [ACM TOSEM 2023](/files/papers/tosem-k8s.pdf)
 - [ENCYCRIS2021](/files/papers/k8s-encycris2021.pdf)
 - [SecDev2020](https://arxiv.org/pdf/2006.15275.pdf)
 
 
 Datasets and Software
 ---
-- [Vulnerability Dataset for Kubernetes](https://doi.org/10.6084/m9.figshare.13447796.v1)  
+- [Software: SLI-KUBE](https://hub.docker.com/r/akondrahman/sli-kube) 
+- [Dataset: Security Misconfiguration in Kubernetes Manifests](https://doi.org/10.6084/m9.figshare.17425478.v3) 
+- [Dataset: Vulnerability-related Commits](https://doi.org/10.6084/m9.figshare.13447796.v1)  
 
 Funding Source
 ---
-[SaTC: EDU: Award - 2209636](https://nsf.gov/awardsearch/showAward?AWD_ID=2209636&HistoricalAwards=false)
+[SaTC: EDU: Award - 2310179](https://nsf.gov/awardsearch/showAward?AWD_ID=2310179&HistoricalAwards=false)
 
 
 
