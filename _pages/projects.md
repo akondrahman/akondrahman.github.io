@@ -40,7 +40,7 @@ Datasets and Software
 
 Funding Source
 ---
-- [NSF SaTC: TTP: Award - 2247141](https://nsf.gov/awardsearch/showAward?AWD_ID=2247141&HistoricalAwards=false)
+- [NSF SaTC: Award - 2247141](https://nsf.gov/awardsearch/showAward?AWD_ID=2247141&HistoricalAwards=false)
 - NSA Award - H98230-21-1-0175
 
 Resilient Container Orchestration 
