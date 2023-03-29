@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- March 30, 2023: Congrats to Brinto and Ruanak on their paper acceptance at the Empirical Software Engineering Journal (EMSE)!  
 - Feb 10, 2023: Our grant on software supply chain security was funded. Thanks NSA! 
 - Nov 26, 2022: Congrats to Shamim and Brinto on their paper acceptance at the ACM Transactions on Software Engineering and Methodology (TOSEM). 
 - Sep 20, 2022: Congrats to Farzana on her first transactions journal (ACM Transactions on Privacy and Security)!  
