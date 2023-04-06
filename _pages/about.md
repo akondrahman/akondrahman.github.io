@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- April 06, 2023: Our paper got accepted at the IEEE Transactions on Software Engineering (TSE) Journal!   
 - March 30, 2023: Congrats to Brinto and Ruanak on their paper acceptance at the Empirical Software Engineering Journal (EMSE)!  
 - Feb 10, 2023: Our grant on software supply chain security was funded. Thanks NSA! 
 - Nov 26, 2022: Congrats to Shamim and Brinto on their paper acceptance at the ACM Transactions on Software Engineering and Methodology (TOSEM). 
