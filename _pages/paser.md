@@ -17,7 +17,7 @@ Advisees
 Collaborators
 ======
 1. Rahul Pandita, Staff Researcher, GitHub, USA [Web](http://rahulpandita.me/)
-2. Chris Parnin, Principal Researcher, Microsoft Research, USA [Web](http://chrisparnin.me/)
+2. Chris Parnin, Principal Researcher, Microsoft Research, USA [Web](https://www.microsoft.com/en-us/research/people/chrisparnin/)
 3. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
 4. Hossain Shahriar, Associate Professor, Kennesaw State University, GA [Web](http://ksuweb.kennesaw.edu/~hshahria/)
 5. Anthony Skjellum, Director, SimCenter; Professor, Computer Science, University of Tennessee at Chattanooga, TN [Web](https://scholar.google.com/citations?user=j74j55gAAAAJ&hl=en)
@@ -28,7 +28,7 @@ Alumni
 2. Dibyendu Brinto Bose (BSc), first appointment as `PhD student` at [Virginia Tech](https://cs.vt.edu/)
 3. Carlos Medrano (BSc), first appointment as `site reliability engineer` at [Google](https://sre.google/)
 4. Justin Murphy (MSc), first appointment as `security analyst` at [CISA, DHS](https://www.cisa.gov/)
-5. Raunak Shakya (MSc), first appointment as `software engineer` at [MineralWare](https://mineralware.com/)
+5. Raunak Shakya (MSc), first appointment as `software engineer` at [Energy Domain](https://energydomain.com/)
 6. Anceito Rivera (BSc), first appointment as `software engineer` at [SAIC](https://www.saic.com/)
 
 Awarded External Grants

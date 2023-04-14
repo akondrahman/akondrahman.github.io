@@ -19,18 +19,20 @@ The project will focus on the development of techniques and tools that will auto
 
 Relevant Peer-reviewed Publications 
 ---
-- [ICST2022](/files/papers/icst2022-tama.pdf)
-- [SANER2022](/files/papers/saner2022.pdf)
-- [SecDev2021](/files/papers/secdev2021.pdf)
-- [S&P2021](/files/papers/slic-sp2021.pdf)
-- [FIE2021](/files/papers/fie2021.pdf)
-- [QUATIC2021](/files/papers/quatic2021.pdf)
-- [TOSEM](https://arxiv.org/pdf/1907.07159.pdf)
-- [HCSE2020](/files/papers/colocation-hcse2020.pdf)
-- [ICSE2019](/files/papers/icse19_slic.pdf)
+- [TSE 2023](/files/papers/tse2023-taintpup.pdf)
+- [ICST 2022](/files/papers/icst2022-tama.pdf)
+- [SANER 2022](/files/papers/saner2022.pdf)
+- [SecDev 2021](/files/papers/secdev2021.pdf)
+- [S&P 2021](/files/papers/slic-sp2021.pdf)
+- [FIE 2021](/files/papers/fie2021.pdf)
+- [QUATIC 2021](/files/papers/quatic2021.pdf)
+- [TOSEM 2021](https://arxiv.org/pdf/1907.07159.pdf)
+- [HCSE 2020](/files/papers/colocation-hcse2020.pdf)
+- [ICSE 2019](/files/papers/icse19_slic.pdf)
 
 Datasets and Software
 ---
+- [TaintPup for Puppet](https://github.com/paser-group/TaintPup)
 - [TAMA for Ansible](https://hub.docker.com/r/talismanic/tama)
 - [ACID for Puppet](https://hub.docker.com/repository/docker/akondrahman/acid-puppet)
 - [SLAC for Ansible](https://hub.docker.com/r/akondrahman/slic_ansible)
@@ -54,9 +56,9 @@ Container technologies, such as Docker and LXC are gaining popularity amongst in
 
 Relevant Peer-reviewed Publications 
 ---
-- [ACM TOSEM 2023](/files/papers/tosem-k8s.pdf)
-- [ENCYCRIS2021](/files/papers/k8s-encycris2021.pdf)
-- [SecDev2020](https://arxiv.org/pdf/2006.15275.pdf)
+- [TOSEM 2023](/files/papers/tosem-k8s.pdf)
+- [ENCYCRIS 2021](/files/papers/k8s-encycris2021.pdf)
+- [SecDev 2020](https://arxiv.org/pdf/2006.15275.pdf)
 
 
 Datasets and Software
