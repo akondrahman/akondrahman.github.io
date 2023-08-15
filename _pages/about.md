@@ -31,6 +31,9 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- August 15, 2023: NSF has funded our project on container orchestration. This is my first CORE grant as the sole PI. Excited!     
+- May 25, 2023: I presented our work on Kubernetes security analysis to practitioners ar [WindRiver](https://www.windriver.com/), on May 24, 2023.    
+- April 19, 2023: I will be leading a discussion panel at the `Empirical Evaluation of Secure Development Processes` Dagstuhl Seminar. Second time this year!   
 - April 06, 2023: Our paper got accepted at the IEEE Transactions on Software Engineering (TSE) Journal!   
 - March 30, 2023: Congrats to Brinto and Ruanak on their paper acceptance at the Empirical Software Engineering Journal (EMSE)!  
 - Feb 10, 2023: Our grant on software supply chain security was funded. Thanks NSA! 
@@ -38,11 +41,9 @@ Latest
 - Sep 20, 2022: Congrats to Farzana on her first transactions journal (ACM Transactions on Privacy and Security)!  
 - Aug 01, 2022: Started as a tenure-track assistant professor at Auburn University.  
 - June 15, 2022: Our SATC grant was funded. Thanks NSF! 
-- May 31, 2022: I will be a discussion co-lead in the [SaTC PI Breakout Meeting](https://cps-vo.org/group/satc-pimtg22/breakouts). See you in Washington D.C. if you are around.  
 - May 05, 2022: Congratulations to Farzana for successfully defending their Ph.D. thesis.  
 - April 11, 2022: I presented my research on Julia bugs at the [U.S. Research Software Engineers (RSE) Forum](https://us-rse.org/events/2022/2022-04-community-call/).
 - Mar 02, 2022: I presented my work on secure software education at the [CAPEC Program User Summit](https://capec.mitre.org/news/index.html). 
-- Dec 17, 2021: Our paper summarizing research related to Puppet quality accepted at SANER 2022. 
 - Dec 07, 2021: Our paper on Ansible test quality has been accepted to ICST 2022. Congrats to Mehedi !   
 - Oct 10, 2021: I was invited as a guest speaker at [WindRiver](https://www.windriver.com/) to discuss our ongoing research projects related IaC.  
 - Aug 26, 2021: Our work on defect categorization for Puppet manifests was covered by [It Will Never Work in Theory](https://neverworkintheory.org/2021/08/26/defect-taxonomy-for-infrastructure-as-code.html).  

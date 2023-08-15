@@ -10,17 +10,21 @@ I lead the **P**ractical and **A**ctionable **S**oftware **E**ngineering **R**es
 
 Advisees
 ======
+4. Wan-Syun `Anita` Cheng, M.Sc. Student, Auburn University [Web]()
+3. Yue Zhang, PhD Student, Auburn University [Web]()
 2. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
 1. Shazibul Islam Shamim, PhD Student, Auburn University [Web](https://shazibulislam.github.io/)
 
 
 Collaborators
 ======
-1. Rahul Pandita, Staff Researcher, GitHub, USA [Web](http://rahulpandita.me/)
-2. Chris Parnin, Principal Researcher, Microsoft Research, USA [Web](https://www.microsoft.com/en-us/research/people/chrisparnin/)
-3. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
-4. Hossain Shahriar, Associate Professor, Kennesaw State University, GA [Web](http://ksuweb.kennesaw.edu/~hshahria/)
-5. Anthony Skjellum, Director, SimCenter; Professor, Computer Science, University of Tennessee at Chattanooga, TN [Web](https://scholar.google.com/citations?user=j74j55gAAAAJ&hl=en)
+1. Syed Rafiul Hussain, Assistant Professor, Penn State University [Web](https://syed-rafiul-hussain.github.io/)
+2. Rahul Pandita, Staff Researcher, GitHub, USA [Web](http://rahulpandita.me/)
+3. Chris Parnin, Principal Researcher, Microsoft Research, USA [Web](https://www.microsoft.com/en-us/research/people/chrisparnin/)
+4. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
+5. Shubhra Kanti Karmaker Santu, Assistant Professor, Auburn University [Web](https://karmake2.github.io/)
+6. Hossain Shahriar, Associate Professor, University of West Florida [Web]()
+7. Anthony Skjellum, Director, SimCenter; Professor, Computer Science, University of Tennessee at Chattanooga, TN [Web](https://scholar.google.com/citations?user=j74j55gAAAAJ&hl=en)
 
 Alumni
 ======
@@ -33,7 +37,8 @@ Alumni
 
 Awarded External Grants
 ======
-
+7. **Sole PI**, SHF: Core: Small: Resilient Operations for Deployment Units Used in Container Orchestration, U.S. National Science Foundation (October 2023 - September 2026). Amount: 553,295 USD (Total), 553,295 USD (Share of Auburn University).
+7. **Sole PI**, REU Supplement for SaTC: TTP: Small: eSLIC: Enhanced Security Static Analysis for Configuration Scripts, U.S. National Science Foundation (May 2023 - August 2024). Amount: 12,000 USD (Total), 12,000 USD (Share of Auburn University).
 6. **Co-PI**, Hands-on Learning Modules for Software Supply Chain Security Education, U.S. National Security Agency (February 2023 - August 2025). PI: Hossain Shahriar, and Nazmus Sakib (Kennesaw State University), Amount: 75,000 USD (Total), 34,968 USD (Share of Auburn University).
 5. **Lead PI**, [SaTC: EDU: Authentic Learning Modules for DevOps Security Education](https://nsf.gov/awardsearch/showAward?AWD_ID=2209636&HistoricalAwards=false), National Science Foundation (June 2022 - Sep 2025). Co-PI: Hossain Shahriar (Kennessaw State University) and Fan Wu (Tuskegee University), Amount: 399,882 USD (Total), 154,006 USD (Share of Auburn University). 
 4. **Co-PI**, [Tennessee Tech Cybercorps Renewal: An Enahnced and Integrated Scholar Experience in Cybersecurity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2043324), National Science Foundation (July 2021 - July 2022), Amount: 1,917,081 USD. PI: Muhammad Ismail, Co-PI: Denis Ulybychev, Eric Brown, Maanak Gupta (Tennessee Tech University) 

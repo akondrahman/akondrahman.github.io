@@ -7,14 +7,15 @@ author_profile: true
 
 Research Grant Review
 ======
-2. Panelist, National Science Foundation (NSF), 2021, 2022 
+2. Panelist, National Science Foundation (NSF), 2021, 2022, 2023  
 1. Reviewer, National Aeronautics and Space Administration (NASA), 2020
 
 Program Committee Assignment
 ======
-
-11. *PC Member - Technical Track*, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023 
-10. *PC Member - Industry Track*, IEEE/ACM International Conference on Automated Software Engineering (ASE), 2022
+13. *PC Member - Technical Track*, ACM/IEEE International Conference on Software Engineering (ISE), 2024 
+12. *PC Member - Technical Track*, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023 
+11. *PC Member - Industry Track*, IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023 
+10. *PC Member - Late Breaking Results Track*, IEEE/ACM International Conference on Automated Software Engineering (ASE), 2022 
 9. *PC Member*, IEEE International Conference on Software Maintenance and Evolution (ICSME),  2020, 2021, 2022 
 8. *Associate Program Chair*, 26th Annual Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2021, 2022 
 7. *PC Member - Technical Track [Distinguished Reviewer Award](https://twitter.com/msrconf/status/1390444181655539716)*, Mining Software Repositories (MSR) 2021, 2022
@@ -28,20 +29,22 @@ Program Committee Assignment
 
 Reviewer
 ======
-9. IEEE Transactions on Software Engineering (TSE) 2020, 2021
-8. ACM Transactions on Software Engineering and Methodology (TOSEM) 2020, 2021, 2022 
-7. Journal of Grid Computing 2022
-6. Journal of Information Technology and Management (ITEM) 2020
-5. Journal of Science of Computer Programming (SCIP) 2020
-4. Journal of IEEE Access 2020
+8. IEEE Transactions on Software Engineering (TSE) 2020, 2021, 2022
+7. ACM Transactions on Software Engineering and Methodology (TOSEM) 2020, 2021, 2022, 2023  
+6. Journal of Grid Computing 2022
+5. Journal of Information Technology and Management (ITEM) 2020
+4. Journal of Science of Computer Programming (SCIP) 2020
 3. IEEE Software 2018, 2019, 2020
 2. Journal of Systems and Software (JSS) 2019, 2020, 2021, 2022
 1. Communications of the ACM (CACM) 2019
 
 Dissertation Committee Assignment
 ======
-9. *Chair*, Farzana Ahamed Bhuiyan (Ph.D.), Tennessee Tech University
-8. *Chair*, Md. Shazibul Islam Shamim (Ph.D.), Tennessee Tech University
+12. *Chair*, Pemsith Mendis (Ph.D.), Auburn University
+11. *Chair*, Yue Zhang (Ph.D.), Auburn University
+10. *Chair*, Md. Shazibul Islam Shamim (Ph.D.), Auburn University
+9. *Chair*, Wan-Syun `Anita` Cheng (M.Sc.), Auburn University
+8. *Chair*, Farzana Ahamed Bhuiyan (Ph.D.), Tennessee Tech University
 7. *Chair*, Justin Murphy (M.Sc.), Tennessee Tech University
 6. *Chair*, Raunak Shakya (M.Sc.), Tennessee Tech University
 5. *Member*, Rajesh Manicavasagam (Ph.D.), Tennessee Tech University
@@ -58,4 +61,6 @@ Departmental Committee Assignment
 
 Others
 ======
-1. Disucssion co-lead, `Software and Hardware Supply Chain Security', [SaTC PI Breakout Meeting](https://cps-vo.org/group/satc-pimtg22/breakouts) 2022 
+1. Disucssion co-lead, `Software and Hardware Supply Chain Security', [SaTC PI Breakout Meeting](https://cps-vo.org/group/satc-pimtg22/breakouts) 2022
+2. Discussion lead, `Security Metrics', [Dagstuhl Seminar - Empirical Evaluation of Secure Development Processes](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23181) 2023
+3. Discussion lead, `Infrastructure as Code - Research Opportunities', [Dagstuhl Seminar - https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23082](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23082) 2023
