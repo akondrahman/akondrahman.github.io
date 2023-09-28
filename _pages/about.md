@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- Sep 18, 2023: Our paper on compiler defects got accepted at ACM Computing Surveys (CSUR)! 
 - August 15, 2023: NSF has funded our project on container orchestration. This is my first CORE grant as the sole PI. Excited!     
 - May 25, 2023: I presented our work on Kubernetes security analysis to practitioners ar [WindRiver](https://www.windriver.com/), on May 24, 2023.    
 - April 19, 2023: I will be leading a discussion panel at the `Empirical Evaluation of Secure Development Processes` Dagstuhl Seminar. Second time this year!   
