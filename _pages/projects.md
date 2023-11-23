@@ -19,6 +19,7 @@ The project will focus on the development of techniques and tools that will auto
 
 Relevant Peer-reviewed Publications 
 ---
+- [EMSE 2024](/files/papers/emse2024-taintible.pdf)
 - [TSE 2023](/files/papers/tse2023-taintpup.pdf)
 - [ICST 2022](/files/papers/icst2022-tama.pdf)
 - [SANER 2022](/files/papers/saner2022.pdf)
@@ -32,6 +33,7 @@ Relevant Peer-reviewed Publications
 
 Datasets and Software
 ---
+- [TIDAL for Ansible](https://github.com/paser-group/TIDAL/tree/master)
 - [TaintPup for Puppet](https://github.com/paser-group/TaintPup)
 - [TAMA for Ansible](https://hub.docker.com/r/talismanic/tama)
 - [ACID for Puppet](https://hub.docker.com/repository/docker/akondrahman/acid-puppet)
