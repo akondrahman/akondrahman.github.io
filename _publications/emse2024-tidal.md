@@ -7,7 +7,7 @@ venue: 'Empirical Software Engineering Journal'
 paperurl: '/files/papers/emse2024-tidal.pdf'
 authors: Akond Rahman, Dibyendu Brinto Bose, Yue Zhang, Rahul Pandita 
 year: 2024
-index: 68
+index: 69
 --- 
 **Context**: Despite being beneficial for managing computing infrastructure at scale, Ansible scripts include security weaknesses, such as hard-coded passwords. Security weaknesses can propagate into tasks, i.e., code constructs used for managing computing infrastructure with Ansible. Propagation of security weaknesses into tasks makes the provisioned infrastructure susceptible to security attacks. A systematic characterization of task infection, i.e., the propagation of security weaknesses into tasks, can aid practitioners and researchers in understanding how security weaknesses propagate into tasks and derive insights for practitioners to develop Ansible scripts securely. 
 

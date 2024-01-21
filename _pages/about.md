@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 Latest 
 ======
+- Jan 20, 2024: Our paper on container orchestration smells got accepted at MSR 2024. Congrats to Yue, Rachel, and Wilson! 
 - Nov 22, 2023: Our paper on Ansible security got accepted at the Empirical Software Engineering Journal (EMSE)! 
 - Sep 18, 2023: Our paper on compiler defects got accepted at ACM Computing Surveys (CSUR)! 
 - August 15, 2023: NSF has funded our project on container orchestration. This is my first CORE grant as the sole PI. Excited!     
