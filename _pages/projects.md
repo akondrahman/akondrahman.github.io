@@ -21,6 +21,9 @@ Relevant Peer-reviewed Publications
 ---
 - [EMSE 2024](/files/papers/emse2024-taintible.pdf)
 - [TSE 2023](/files/papers/tse2023-taintpup.pdf)
+- [SecDev 2023](/files/papers/secdev2023.pdf)
+- [FIST 2023](/files/papers/fist2023-compiler.pdf)
+- [FIST 2023](/files/papers/fist2023-survey.pdf)
 - [ICST 2022](/files/papers/icst2022-tama.pdf)
 - [SANER 2022](/files/papers/saner2022.pdf)
 - [SecDev 2021](/files/papers/secdev2021.pdf)
@@ -58,6 +61,7 @@ Container technologies, such as Docker and LXC are gaining popularity amongst in
 
 Relevant Peer-reviewed Publications 
 ---
+- [MSR 2024](/files/papers/k8s-msr2024.pdf)
 - [TOSEM 2023](/files/papers/tosem-k8s.pdf)
 - [ENCYCRIS 2021](/files/papers/k8s-encycris2021.pdf)
 - [SecDev 2020](https://arxiv.org/pdf/2006.15275.pdf)
@@ -65,6 +69,7 @@ Relevant Peer-reviewed Publications
 
 Datasets and Software
 ---
+- [Dataset: Container Orchestration Smells for ChatGPT-generated Kubernetes Manifests](https://doi.org/10.6084/m9.figshare.24786711.v1) 
 - [Software: SLI-KUBE](https://hub.docker.com/r/akondrahman/sli-kube) 
 - [Dataset: Security Misconfiguration in Kubernetes Manifests](https://doi.org/10.6084/m9.figshare.17425478.v3) 
 - [Dataset: Vulnerability-related Commits](https://doi.org/10.6084/m9.figshare.13447796.v1)  
