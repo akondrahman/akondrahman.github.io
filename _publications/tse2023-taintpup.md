@@ -6,6 +6,7 @@ date: 2023-04-06
 venue: 'IEEE Transactions on Software Engineering (TSE)'
 paperurl: '/files/papers/tse2023-taintpup.pdf'
 authors: Akond Rahman and Chris Parnin 
+award: Journal-first at ICSE 2024
 year: 2023
 index: 66
 --- 

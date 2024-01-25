@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ Hi there! I am Akond, an assistant professor in the [Department of Computer Scie
 
 Research Interests 
 ======
-My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as model checking, program analysis, and statistical methods to pursue my research goals. My research is supported by the U.S. National Science Foundation (NSF) and the U.S. National Security Agency (NSA).  
+My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as model checking, program analysis, and statistical methods to pursue my research goals. My research has been graciously supported by grants from the U.S. National Science Foundation (NSF) and the U.S. National Security Agency (NSA).  
 
 
 Academic Achievements
@@ -35,7 +35,7 @@ Latest
 - Nov 22, 2023: Our paper on Ansible security got accepted at the Empirical Software Engineering Journal (EMSE)! 
 - Nov 01, 2023: Our paper on compiler defects got accepted at ACM Computing Surveys (CSUR)! 
 - August 15, 2023: NSF has funded our project on container orchestration. This is my first CORE grant as the sole PI. Excited!     
-- May 25, 2023: I presented our work on Kubernetes security analysis to practitioners ar [WindRiver](https://www.windriver.com/), on May 24, 2023.    
+- May 25, 2023: I presented our work on Kubernetes security analysis to practitioners at [WindRiver](https://www.windriver.com/), on May 24, 2023.    
 - April 19, 2023: I will be leading a discussion panel at the `Empirical Evaluation of Secure Development Processes` Dagstuhl Seminar. Second time this year!   
 - April 06, 2023: Our paper got accepted at the IEEE Transactions on Software Engineering (TSE) Journal!   
 - March 30, 2023: Congrats to Brinto and Ruanak on their paper acceptance at the Empirical Software Engineering Journal (EMSE)!  

@@ -6,6 +6,7 @@ date: 2023-02-10
 venue: 'Journal of ACM Transactions on Software Engineering and Methodology (TOSEM)'
 paperurl: '/files/papers/tosem-k8s.pdf'
 authors: Akond Rahman, Shazibul Islam Shamim, Dibyendu Brinto Bose, and Rahul Pandita
+award: Journal-first at ESEC/FSE 2023
 year: 2023
 index: 64
 --- 
