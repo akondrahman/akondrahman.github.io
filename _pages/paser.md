@@ -50,6 +50,8 @@ Awarded External Grants
 Noteworthy Achievements of PASERs 
 ======
 
+12. **Yue Zhang**, 100+ Women Strong Outstanding Departmental Annual Graduate Award, 2024 
+11. **Yue Zhang**, Gavin Graduate Student Fellow, 2023-2026 
 10. **Shazibul Islam Shamim**, Bronze Award, Student Research Competition, ESEC/FSE 2021 
 9. **Akond Rahman**, Distinguished Reviewer, Mining Software Repositories (MSR) 2021
 8. **Akond Rahman**, 2019-2020 Nominee for the Council of Graduate Schools/ProQuest Distinguished Dissertation Award, NC State University
