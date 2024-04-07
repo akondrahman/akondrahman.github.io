@@ -26,3 +26,5 @@ Research supported by external grants that have totaled over 3.4 million USD til
 2. **Lead PI**, `Cybersecurity Mini Grant`, U.S. National Science Foundation (Dec 2020 - Mar 2021). Co-PI: Denis Ulybychev (Tennessee Tech University), Amount: 5,000 USD (Total)
 
 1. **Lead PI**, `SaTC: TTP: Small: eSLIC: Enhanced Security Static Analysis for Configuration Scripts`, U.S. National Science Foundation (Oct 2020 - Sep 2024), Co-PI: Marcelo D' Amorim, former Co-PI Chris Parnin (NC State University), Amount: 444,720 USD (Total)
+
+{: reversed="reversed"}
