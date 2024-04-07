@@ -35,17 +35,6 @@ Alumni
 5. Raunak Shakya (MSc), first appointment as `software engineer` at [Energy Domain](https://energydomain.com/)
 6. Anceito Rivera (BSc), first appointment as `software engineer` at [SAIC](https://www.saic.com/)
 
-Awarded External Grants
-======
-7. **Sole PI**, SHF: Core: Small: Resilient Operations for Deployment Units Used in Container Orchestration, U.S. National Science Foundation (October 2023 - September 2026). Amount: 553,295 USD (Total), 553,295 USD (Share of Auburn University).
-7. **Sole PI**, REU Supplement for SaTC: TTP: Small: eSLIC: Enhanced Security Static Analysis for Configuration Scripts, U.S. National Science Foundation (May 2023 - August 2024). Amount: 12,000 USD (Total), 12,000 USD (Share of Auburn University).
-6. **Co-PI**, Hands-on Learning Modules for Software Supply Chain Security Education, U.S. National Security Agency (February 2023 - August 2025). PI: Hossain Shahriar, and Nazmus Sakib (Kennesaw State University), Amount: 75,000 USD (Total), 34,968 USD (Share of Auburn University).
-5. **Lead PI**, [SaTC: EDU: Authentic Learning Modules for DevOps Security Education](https://nsf.gov/awardsearch/showAward?AWD_ID=2209636&HistoricalAwards=false), National Science Foundation (June 2022 - Sep 2025). Co-PI: Hossain Shahriar (Kennessaw State University) and Fan Wu (Tuskegee University), Amount: 399,882 USD (Total), 154,006 USD (Share of Auburn University). 
-4. **Co-PI**, [Tennessee Tech Cybercorps Renewal: An Enahnced and Integrated Scholar Experience in Cybersecurity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2043324), National Science Foundation (July 2021 - July 2022), Amount: 1,917,081 USD. PI: Muhammad Ismail, Co-PI: Denis Ulybychev, Eric Brown, Maanak Gupta (Tennessee Tech University) 
-3. **Lead PI**, [Cybersecurity Mini Grant (Sub-award)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730105), National Science Foundation (Dec 2020 - Mar 2021), Amount: 5,000 USD. Co-PI: Dennis Ulybychev (Tennessee Tech University) 
-2. **Lead PI**, [SaTC: TTP: Small: eSLIC: Enhanced Security Static Analysis for Detecting Insecure Configuration Scripts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026869), National Science Foundation (Oct 2020 - Sep 2023). Co-PI: Chris Parnin (NC State University), Amount: 444,720 USD (Total), 177,995 USD (Share of Auburn University). 
-1. **Co-PI**, EDGE Curriculum Development Grant, Tennessee Tech University (Jan 2020 - May 2020), PI: Maanak Gupta (Tennessee Tech University), Amount: 5,000 USD (Total)
-
 
 Noteworthy Achievements of PASERs 
 ======
