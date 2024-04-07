@@ -9,6 +9,9 @@ main:
   - title: "Research Group"
     url: /paser/    
 
+  - title: "Grants"
+    url: /grants/      
+
   - title: "Service"
     url: /service/    
 
