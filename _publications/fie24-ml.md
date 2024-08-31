@@ -1,0 +1,14 @@
+---
+title: "Challenges and Preferences of Learning Machine Learning: A Student Perspective"
+collection: publications
+permalink: /publication/fie24-ml
+date: 2024-07-01
+venue: 'Frontiers in Education Conference (FIE) 2024'
+paperurl: 'files/papers/ML-FIE2024.pdf'
+authors: Effat Farhana, Fan Wu, Hossain Shahriar, Shubhra Kanti Karmaker Santu, and Akond Rahman
+year: 2024
+index: 72
+--- 
+This research paper systematically identifies the perceptions of learning machine learning (ML) topics. To keep up with the ever-increasing need for professionals with ML expertise, for-profit and non-profit organizations conduct a wide range of ML-related courses at undergraduate and graduate levels. Despite the availability of ML-related education materials, there is lack of understanding how students perceive ML-related topics and the dissemination of ML-related topics. A systematic categorization of students' perceptions of these courses can aid educators in understanding the challenges that students face, and use that understanding for better dissemination of ML-related topics in courses. `The goal of this paper is to help educators teach machine learning (ML) topics by providing an experience report of students' perceptions related to learning ML.` We accomplish our research goal by conducting an empirical study where we deploy a survey with 83 students across five academic institutions. These students are recruited from a mixture of undergraduate and graduate courses. We apply a qualitative analysis technique called open coding to identify challenges that students encounter while studying ML-related topics. Using the same qualitative analysis technique we identify quality aspects do students prioritize ML-related topics.   
+
+From our survey, we identify 11 challenges that students face when learning about ML topics, amongst which data quality is the most frequent, followed by hardware-related challenges. We observe the majority of the students prefer hands-on projects over theoretical lectures. Furthermore, we find the surveyed students to consider ethics, security, privacy, correctness, and performance as essential considerations while developing ML-based systems. Based on our findings, we recommend educators who teach ML-related courses to (i) incorporate hands-on projects to teach ML-related topics, (ii) dedicate course materials related to data quality, (iii) use lightweight virtualization tools to showcase computationally intensive topics, such as deep neural networks, and (iv) empirical evaluation of how large language models can be used in ML-related education.     

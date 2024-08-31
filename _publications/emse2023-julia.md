@@ -6,6 +6,7 @@ date: 2023-03-30
 venue: 'Journal of Empirical Software Engineering (EMSE)'
 paperurl: '/files/papers/emse2023-julia.pdf'
 authors: Akond Rahman, Dibyendu Brinto Bose, Raunak Shakya, and Rahul Pandita
+award: Journal-first at FSE 2024
 year: 2023
 index: 65
 --- 

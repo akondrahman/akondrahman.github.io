@@ -6,6 +6,7 @@ date: 2024-01-20
 venue: 'Empirical Software Engineering Journal'
 paperurl: '/files/papers/emse2024-tidal.pdf'
 authors: Akond Rahman, Dibyendu Brinto Bose, Yue Zhang, Rahul Pandita 
+award: Journal-first at FSE 2024
 year: 2024
 index: 69
 --- 
