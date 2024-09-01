@@ -29,8 +29,11 @@ Background
 I completed my PhD in Computer Science at [North Carolina State University](https://www.csc.ncsu.edu/), where I was supervised by [Dr. Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/). I was born in [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh), a beautiful country in South Asia. I completed my B.Sc. at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/), and M.Sc. at [University of Connecticut](https://uconn.edu/). 
 
 
-Latest 
+News 
 ======
+- August 31, 2024: Our collaborative paper on AI assistants got accepted at CCS 2024!   
+- August 22, 2024: Presented our Kubernetes-related research at the CAE-R community event.    
+- May 25, 2024: Congratulations to my second PhD student, Shamim on defending his PhD! He will start as a tenure-track assistant professor at Kennessaw State University. 
 - April 15, 2024: Congratulations to Sibat on his FSE paper acceptance! Well done!  
 - March 27, 2024: Congratulations to my PhD student Yue on winning the 100+ Women Strong Outstanding Departmental Annual Graduate Award! Well done, Yue !!  
 - Jan 20, 2024: Our paper on container orchestration smells got accepted at MSR 2024. Congrats to Yue, Rachel, and Wilson! 

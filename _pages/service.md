@@ -7,12 +7,15 @@ author_profile: true
 
 Research Grant Review
 ======
-2. Panelist, National Science Foundation (NSF), 2021, 2022, 2023  
+3. Panelist, National Science Foundation (NSF), 2021, 2022, 2023  
+2. Reviewer, Swiss National Science Foundation (SNSF), 2024
 1. Reviewer, National Aeronautics and Space Administration (NASA), 2020
 
 Program Committee Assignment
 ======
-13. *PC Member - Technical Track*, ACM/IEEE International Conference on Software Engineering (ISE), 2024 
+15. *PC Member - Technical Track*, ACM/IEEE International Conference on Automated Software Engineering (ASE), 2024 
+14. *PC Member - Technical Track*, ACM/IEEE International Conference on Software Engineering (ICSE), 2025 
+13. *PC Member - Technical Track*, ACM/IEEE International Conference on Software Engineering (ICSE), 2024 
 12. *PC Member - Technical Track*, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023 
 11. *PC Member - Industry Track*, IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023 
 10. *PC Member - Late Breaking Results Track*, IEEE/ACM International Conference on Automated Software Engineering (ASE), 2022 
@@ -29,8 +32,10 @@ Program Committee Assignment
 
 Reviewer
 ======
+10. ACM Transactions on Privacy and Security (TOPS) 2024 
+9. Journal of Empirical Software Engineering (EMSE) 2023, 2024 
 8. IEEE Transactions on Software Engineering (TSE) 2020, 2021, 2022
-7. ACM Transactions on Software Engineering and Methodology (TOSEM) 2020, 2021, 2022, 2023  
+7. ACM Transactions on Software Engineering and Methodology (TOSEM) 2020, 2021, 2022, 2023, 2024  
 6. Journal of Grid Computing 2022
 5. Journal of Information Technology and Management (ITEM) 2020
 4. Journal of Science of Computer Programming (SCIP) 2020
@@ -40,18 +45,26 @@ Reviewer
 
 Dissertation Committee Assignment
 ======
-12. *Chair*, Pemsith Mendis (Ph.D.), Auburn University
-11. *Chair*, Yue Zhang (Ph.D.), Auburn University
-10. *Chair*, Md. Shazibul Islam Shamim (Ph.D.), Auburn University
-9. *Chair*, Wan-Syun `Anita` Cheng (M.Sc.), Auburn University
-8. *Chair*, Farzana Ahamed Bhuiyan (Ph.D.), Tennessee Tech University
-7. *Chair*, Justin Murphy (M.Sc.), Tennessee Tech University
-6. *Chair*, Raunak Shakya (M.Sc.), Tennessee Tech University
-5. *Member*, Rajesh Manicavasagam (Ph.D.), Tennessee Tech University
-4. *Member*, Sherif Albdelfattah (Ph.D.), Tennessee Tech University
-3. *Member*, Andrew McDole (M.Sc.), Tennessee Tech University
-2. *Member*, Debolina Halder Lina (M.Sc.), Tennessee Tech University
-1. *Member*, External Examiner, Grant Ongers (M.Sc.), Rhodes University, South Africa
+PhD
+------
+6. *Chair*, Md. Jahidul Arafat (Ph.D.), Auburn University
+5. *Chair*, Arpan Srivastava (Ph.D.), Auburn University
+4. *Chair*, Pemsith Mendis (Ph.D.), Auburn University
+3. *Chair*, Yue Zhang (Ph.D.), Auburn University
+2. *Chair*, Md. Shazibul Islam Shamim (Ph.D.), Auburn University [`Graduated`]
+1. *Chair*, Farzana Ahamed Bhuiyan (Ph.D.), Tennessee Tech University [`Graduated`]
+
+MSc
+------
+9. *Chair*, Ayush Singh (M.Sc.), Auburn University
+8. *Chair*, Wan-Syun `Anita` Cheng (M.Sc.), Auburn University
+7. *Chair*, Justin Murphy (M.Sc.), Tennessee Tech University [`Graduated`]
+6. *Chair*, Raunak Shakya (M.Sc.), Tennessee Tech University [`Graduated`]
+5. *Member*, Rajesh Manicavasagam (Ph.D.), Tennessee Tech University [`Graduated`]
+4. *Member*, Sherif Albdelfattah (Ph.D.), Tennessee Tech University [`Graduated`]
+3. *Member*, Andrew McDole (M.Sc.), Tennessee Tech University [`Graduated`]
+2. *Member*, Debolina Halder Lina (M.Sc.), Tennessee Tech University [`Graduated`]
+1. *Member*, External Examiner, Grant Ongers (M.Sc.), Rhodes University, South Africa [`Graduated`]
 
 
 Departmental Committee Assignment
