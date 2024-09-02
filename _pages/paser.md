@@ -10,10 +10,13 @@ I lead the **P**ractical and **A**ctionable **S**oftware **E**ngineering **R**es
 
 Advisees
 ======
-4. Wan-Syun `Anita` Cheng, M.Sc. Student, Auburn University [Web]()
-3. Yue Zhang, PhD Student, Auburn University [Web]()
-2. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
-1. Shazibul Islam Shamim, PhD Student, Auburn University [Web](https://shazibulislam.github.io/)
+6. Ayush Singh, M.Sc. Student, Auburn University [Web]()
+5. Wan-Syun `Anita` Cheng, M.Sc. Student, Auburn University [Web]()
+4. Md. Jahidul Arafat, PhD Student, Auburn University [Web]()
+3. Arpan Srivastava, PhD Student, Auburn University [Web]()
+2. Yue Zhang, PhD Student, Auburn University [Web]()
+1. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
+
 
 
 Collaborators
@@ -23,12 +26,14 @@ Collaborators
 3. Chris Parnin, Principal Researcher, Microsoft Research, USA [Web](https://www.microsoft.com/en-us/research/people/chrisparnin/)
 4. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
 5. Shubhra Kanti Karmaker Santu, Assistant Professor, Auburn University [Web](https://karmake2.github.io/)
-6. Hossain Shahriar, Associate Professor, University of West Florida [Web]()
+6. Hossain Shahriar, Associate Director, Center for Cybersecurity, University of West Florida [Web](https://scholar.google.com/citations?user=Nl3_svsAAAAJ&hl=en)
 7. Anthony Skjellum, Director, SimCenter; Professor, Computer Science, University of Tennessee at Chattanooga, TN [Web](https://scholar.google.com/citations?user=j74j55gAAAAJ&hl=en)
+8. Fan Wu, Head and Professor of the Computer Science Department, Tuskegee University, Tuskegee, AL [Web](https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science/computer-science-faculty-staff/wu-fan-phd)
 
 Alumni
 ======
 1. Farzana Ahmed Bhuiyan (PhD), first appointment as `research scientist` at [Meta (formerly known as Facebook)](https://facebook.com)
+2. Shazibul Islam Shamim, (PhD), first appointment as `tenure-track assistant professor` at [Kennessaw State University](https://scholar.google.com/citations?user=DkM2G5cAAAAJ&hl=en)
 2. Dibyendu Brinto Bose (BSc), first appointment as `PhD student` at [Virginia Tech](https://cs.vt.edu/)
 3. Carlos Medrano (BSc), first appointment as `site reliability engineer` at [Google](https://sre.google/)
 4. Justin Murphy (MSc), first appointment as `security analyst` at [CISA, DHS](https://www.cisa.gov/)
@@ -38,8 +43,8 @@ Alumni
 
 Noteworthy Achievements of PASERs 
 ======
-
-12. **Yue Zhang**, 100+ Women Strong Outstanding Departmental Annual Graduate Award, 2024 
+13. **Md. Jahidul Arafat**, Presidential Graduate Research Fellowship Award, Auburn University, 2024 
+12. **Yue Zhang**, 100+ Women Strong Outstanding Departmental Annual Graduate Award, Auburn University, 2024 
 11. **Yue Zhang**, Gavin Graduate Student Fellow, 2023-2026 
 10. **Shazibul Islam Shamim**, Bronze Award, Student Research Competition, ESEC/FSE 2021 
 9. **Akond Rahman**, Distinguished Reviewer, Mining Software Repositories (MSR) 2021
