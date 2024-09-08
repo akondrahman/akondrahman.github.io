@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/fie24-ml
 date: 2024-07-01
 venue: 'Frontiers in Education Conference (FIE) 2024'
-paperurl: 'files/papers/ML-FIE2024.pdf'
+paperurl: '/files/papers/ML-FIE2024.pdf'
 authors: Effat Farhana, Fan Wu, Hossain Shahriar, Shubhra Kanti Karmaker Santu, and Akond Rahman
 year: 2024
 index: 72

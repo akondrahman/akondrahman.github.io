@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/fie24-ifa
 date: 2024-07-02
 venue: 'Frontiers in Education Conference (FIE) 2024'
-paperurl: 'files/papers/IFA-FIE2024.pdf'
+paperurl: '/files/papers/IFA-FIE2024.pdf'
 authors: Akond Rahman, Fan Wu, and Hossain Shahriar
 year: 2024
 index: 73

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/se4dq24
 date: 2024-07-15
 venue: '4th International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things (SEA4DQ 2024) co-located with the Foundations of Software Engineering (FSE)'
-paperurl: 'files/papers/se4dq24.pdf'
+paperurl: '/files/papers/se4dq24.pdf'
 authors: Pemsith Mendis, Wilson Reeves, Muhammad Ali Babar, Yue Zhang, and Akond Rahman 
 year: 2024
 index: 74
