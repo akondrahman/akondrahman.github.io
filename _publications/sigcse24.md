@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/sigcse24
 date: 2024-03-01
 venue: '55th ACM Technical Symposium on Computer Science Education (SIGCSE) 2024'
-paperurl: 'files/papers/sigcse2024.pdf'
+paperurl: '/files/papers/sigcse2024.pdf'
 authors: Akond Rahman, Yue Zhang, Fan Wu, Hossain Shahriar  
 year: 2024
 index: 71
