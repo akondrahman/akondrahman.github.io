@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 News 
 ======
+- November 01, 2024: My PhD student, Shamim's paper on Kubernetes security configurations got accepted at ICSE 2025! Congratulations Shamim!!    
 - August 31, 2024: Our collaborative paper on AI assistants got accepted at CCS 2024!   
 - August 22, 2024: Presented our Kubernetes-related research at the CAE-R community event.    
 - May 25, 2024: Congratulations to my second PhD student, Shamim on defending his PhD! He will start as a tenure-track assistant professor at Kennessaw State University. 
