@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Akond, an assistant professor in the [Department of Computer Science and Software Engineering (CSSE)](https://www.eng.auburn.edu/comp/) at [Auburn University](https://eng.auburn.edu/). I am also a faculty member at the [Auburn Cyber Research Center](https://www.eng.auburn.edu/research/centers/auburn-cyber-research-center/index.html).  
+Hi there! I am Akond, an assistant professor in the [Department of Computer Science and Software Engineering (CSSE)](https://www.eng.auburn.edu/comp/) at [Auburn University](https://eng.auburn.edu/). I am also a faculty member at the [Auburn University Center for AI & Cybersecurity Engineering](https://eng.auburn.edu/au-caice/index).  
 
 Research Interests 
 ======
-My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as model checking, program analysis, and statistical methods to pursue my research goals. My research has been graciously supported by grants from the U.S. National Science Foundation (NSF) and the U.S. National Security Agency (NSA).  
+My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as model checking, program analysis, and statistical methods to pursue my research goals. My research is and has been graciously supported by grants from the U.S. National Science Foundation (NSF), the U.S. National Security Agency (NSA),a nd the Griffiss Institute.   
 
 
 Academic Achievements
@@ -31,6 +31,11 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 News 
 ======
+- April 08, 2025: Anita successfully defended his M.Sc. thesis! Congratulations Anita!!    
+- April 04, 2025: Ayush successfully defended his M.Sc. thesis! Congratulations Ayush!!
+- April 03, 2025: Congratulations to my PhD student Pemsith on winning the CSSE Best Poster Award!     
+- April 01, 2025: My PhD student, Shamim's paper on Kubernetes security got accepted at FSE 2025! Congratulations Shamim!!    
+- December 01, 2024: My PhD student, Yue's paper on Kubernetes security configurations got accepted at Empirical Software Engineering Journal (EMSE)! Congratulations Yue!!    
 - November 01, 2024: My PhD student, Shamim's paper on Kubernetes security configurations got accepted at ICSE 2025! Congratulations Shamim!!    
 - August 31, 2024: Our collaborative paper on AI assistants got accepted at CCS 2024!   
 - August 22, 2024: Presented our Kubernetes-related research at the CAE-R community event.    
