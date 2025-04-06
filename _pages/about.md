@@ -60,4 +60,4 @@ News
 
 Sponsors 
 ======
-![NSF](files/nsf.png){:width="10%" height="10%"}       ![NSA](files/nsa.png){:width="10%" height="7%"}    ![Griffiss Institute](files/griffis.png){:width="10%" height="7%"} 
+![NSF](files/nsf.png){:width="10%" height="10%"}       ![NSA](files/nsa.png){:width="10%" height="6%"}    ![Griffiss Institute](files/griffis.png){:width="10%" height="7%"} 
