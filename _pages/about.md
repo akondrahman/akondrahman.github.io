@@ -12,7 +12,7 @@ Hi there! I am Akond, an assistant professor in the [Department of Computer Scie
 
 Research Interests 
 ======
-My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as model checking, program analysis, and statistical methods to pursue my research goals. My research is and has been graciously supported by grants from the U.S. National Science Foundation (NSF), the U.S. National Security Agency (NSA),a nd the Griffiss Institute.   
+My research interests are in software engineering focused on DevOps and Secure Software Development. I rely on a wide range of techniques, such as model checking, program analysis, and statistical methods to pursue my research goals. My research is and has been graciously supported by grants from the U.S. National Science Foundation (NSF), the U.S. National Security Agency (NSA), and the Griffiss Institute.   
 
 
 Academic Achievements
