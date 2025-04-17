@@ -45,7 +45,7 @@ Alumni
 7. Raunak Shakya (MSc), first appointment as `software engineer` at [Energy Domain](https://energydomain.com/)
 8. Ayush Singh (MSc), first appointment as `software engineer` at [Energy Domain](https://energydomain.com/)
 9. Wan-Syun "Anita" Cheng (MSc), first appointment as `software engineer` at [Energy Domain](https://energydomain.com/)
-10. Carlos Rabat Villareal (MSc), first appointment as `software engineer` at [Energy Domain](https://energydomain.com/)
+10. Carlos Rabat Villareal (MSc), first appointment as `software engineer` at [Management Solutions](https://www.managementsolutions.com/en)
 11. Anceito Rivera (BSc), first appointment as `software engineer` at [SAIC](https://www.saic.com/)
 
 

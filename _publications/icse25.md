@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icse25
 date: 2025-04-04
 venue: 'IEEE/ACM International Conference on Software Engineering (ICSE) 2025'
-paperurl: '/files/papers/icse25.pdf'
+paperurl: '/files/papers/icse25-k8s.pdf'
 authors: Shazibul Islam Shamim, Hanyang Hu, and Akond Rahman  
 year: 2025
 index: 81
