@@ -7,12 +7,14 @@ author_profile: true
 
 Research Grant Review
 ======
-3. Panelist, National Science Foundation (NSF), 2021, 2022, 2023  
+3. Panelist, National Science Foundation (NSF), 2021, 2022, 2023, 2025
 2. Reviewer, Swiss National Science Foundation (SNSF), 2024
 1. Reviewer, National Aeronautics and Space Administration (NASA), 2020
 
 Program Committee Assignment
 ======
+17. *PC Member - Technical Track*, ACM/IEEE International Conference on Automated Software Engineering (ASE), 2025 
+16. *PC Member - Technical Track*, ACM/IEEE International Conference on Software Engineering (ICSE), 2026 
 15. *PC Member - Technical Track*, ACM/IEEE International Conference on Automated Software Engineering (ASE), 2024 
 14. *PC Member - Technical Track*, ACM/IEEE International Conference on Software Engineering (ICSE), 2025 
 13. *PC Member - Technical Track*, ACM/IEEE International Conference on Software Engineering (ICSE), 2024 
@@ -45,8 +47,12 @@ Reviewer
 
 Dissertation Committee Assignment
 ======
+
+
 PhD
 ------
+8. *Chair*, Huynh Loi (Ph.D.), Auburn University
+7. *Chair*, Yinka Peter (Ph.D.), Auburn University
 6. *Chair*, Md. Jahidul Arafat (Ph.D.), Auburn University
 5. *Chair*, Arpan Srivastava (Ph.D.), Auburn University
 4. *Chair*, Pemsith Mendis (Ph.D.), Auburn University
@@ -54,10 +60,11 @@ PhD
 2. *Chair*, Md. Shazibul Islam Shamim (Ph.D.), Auburn University [`Graduated`]
 1. *Chair*, Farzana Ahamed Bhuiyan (Ph.D.), Tennessee Tech University [`Graduated`]
 
+
 MSc
 ------
-9. *Chair*, Ayush Singh (M.Sc.), Auburn University
-8. *Chair*, Wan-Syun `Anita` Cheng (M.Sc.), Auburn University
+9. *Chair*, Ayush Singh (M.Sc.), Auburn University  [`Graduated`]
+8. *Chair*, Wan-Syun `Anita` Cheng (M.Sc.), Auburn University  [`Graduated`]
 7. *Chair*, Justin Murphy (M.Sc.), Tennessee Tech University [`Graduated`]
 6. *Chair*, Raunak Shakya (M.Sc.), Tennessee Tech University [`Graduated`]
 5. *Member*, Rajesh Manicavasagam (Ph.D.), Tennessee Tech University [`Graduated`]
