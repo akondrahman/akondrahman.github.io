@@ -31,6 +31,8 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 News 
 ======
+- May 05, 2025: I presented at the Concordia University as an invited speaker.  
+- May 03, 2025: I presented a keynote at the `Software Vulnerability Management (SVM) Workshop`, co-located with  ICSE 2025. 
 - April 08, 2025: Anita successfully defended his M.Sc. thesis! Congratulations Anita!!    
 - April 04, 2025: Ayush successfully defended his M.Sc. thesis! Congratulations Ayush!!
 - April 03, 2025: Congratulations to my PhD student Pemsith on winning the CSSE Best Poster Award!     
