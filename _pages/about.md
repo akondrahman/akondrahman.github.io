@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Akond, an assistant professor in the [Department of Computer Science and Software Engineering (CSSE)](https://www.eng.auburn.edu/comp/) at [Auburn University](https://eng.auburn.edu/). I am also a faculty member at the [Auburn University Center for AI & Cybersecurity Engineering](https://eng.auburn.edu/au-caice/index).  
+Hi there! I am Akond, an assistant professor in the [Department of Computer Science and Software Engineering (CSSE)](https://www.eng.auburn.edu/comp/) at [Auburn University](https://eng.auburn.edu/). I am also a faculty member at the [Auburn University Center for AI & Cybersecurity Engineering](https://eng.auburn.edu/au-caice/index). Prior to Auburn, I was a tenure-track assistant professor at the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at Tennessee Tech University from August, 2019 to July, 2022.   
 
 Research Interests 
 ======
@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 News 
 ======
+- June 22, 2025: I appeared on [WTVM](https://www.wtvm.com/2025/06/20/aflac-confirms-customers-data-breached-cyberattack/) to talk about the recent hack on Aflac. 
 - May 05, 2025: I presented at the Concordia University as an invited speaker.  
 - May 03, 2025: I presented a keynote at the `Software Vulnerability Management (SVM) Workshop`, co-located with  ICSE 2025. 
 - April 08, 2025: Anita successfully defended his M.Sc. thesis! Congratulations Anita!!    
