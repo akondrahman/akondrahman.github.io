@@ -13,27 +13,27 @@ Advisees
 
 ##### Graduate Students 
 1. Md. Jahidul Arafat, PhD Student, Auburn University [Web]()
-2. Loi Huynh, PhD Student, Auburn University [Web]()
-3. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
+2. Blade Arnold, M.Sc. Student, Auburn University [Web]()
+3. Loi Huynh, PhD Student, Auburn University [Web]()
+4. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
 5. Yinka Peter, PhD Student, Auburn University [Web]()
 6. Arpan Srivastava, PhD Student, Auburn University [Web]()
-7. Yue Zhang, PhD Student, Auburn University [Web]()
+7. Yue Zhang, PhD Student, Auburn University [Web](https://zyue110026.github.io/)
 
+<!--
 ##### Undergraduate Students
 1. Hayden Walker, Undergraduate Student, Auburn University [Web]()
 2. Christos Argyropoulos, Undergraduate Student, Auburn University [Web]()
-
+-->
 
 
 Collaborators
 ======
-1. Syed Rafiul Hussain, Assistant Professor, Penn State University [Web](https://syed-rafiul-hussain.github.io/)
-2. Rahul Pandita, Staff Researcher, GitHub, USA [Web](http://rahulpandita.me/)
-3. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
-4. Shubhra Kanti Karmaker Santu, Assistant Professor, Auburn University [Web](https://karmake2.github.io/)
-5. Hossain Shahriar, Associate Director, Center for Cybersecurity, University of West Florida [Web](https://scholar.google.com/citations?user=Nl3_svsAAAAJ&hl=en)
-6. Anthony Skjellum, Director, SimCenter; Professor, Computer Science, University of Tennessee at Chattanooga, TN [Web](https://scholar.google.com/citations?user=j74j55gAAAAJ&hl=en)
-7. Fan Wu, Head and Professor of the Computer Science Department, Tuskegee University, Tuskegee, AL [Web](https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science/computer-science-faculty-staff/wu-fan-phd)
+1. Rahul Pandita, Staff Researcher, GitHub, USA [Web](http://rahulpandita.me/)
+2. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
+3. Shubhra Kanti Karmaker Santu, Assistant Professor, Auburn University [Web](https://karmake2.github.io/)
+4. Hossain Shahriar, Associate Director, Center for Cybersecurity, University of West Florida [Web](https://scholar.google.com/citations?user=Nl3_svsAAAAJ&hl=en)
+5. Fan Wu, Head and Professor of the Computer Science Department, Tuskegee University, Tuskegee, AL [Web](https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science/computer-science-faculty-staff/wu-fan-phd)
 
 Alumni
 ======
@@ -43,14 +43,15 @@ Alumni
 4. Carlos Medrano (BSc), first appointment as `site reliability engineer` at [Google](https://sre.google/)
 6. Justin Murphy (MSc), first appointment as `security analyst` at [CISA, DHS](https://www.cisa.gov/)
 7. Raunak Shakya (MSc), first appointment as `software engineer` at [Energy Domain](https://energydomain.com/)
-8. Ayush Singh (MSc), first appointment as `software engineer` at [Energy Domain](https://energydomain.com/)
-9. Wan-Syun "Anita" Cheng (MSc), first appointment as `software engineer` at [Energy Domain](https://energydomain.com/)
+8. Ayush Singh (MSc), first appointment as `software engineer` at [Infinite Computer Solutions](https://www.infinite.com/)
+9. Wan-Syun "Anita" Cheng (MSc), first appointment as `software engineer` at [Auburn University](https://auburn.edu/)
 10. Carlos Rabat Villareal (MSc), first appointment as `software engineer` at [Management Solutions](https://www.managementsolutions.com/en)
 11. Anceito Rivera (BSc), first appointment as `software engineer` at [SAIC](https://www.saic.com/)
 
 
 Noteworthy Achievements of PASERs 
 ======
+16. **Akond Rahman**, Research Excellence Award, College of Engineering, Auburn University, 2025
 15. **Pemsith Mendis**, CSSE Best Poster Presentation Award, Auburn University, 2025
 14. **Christos Argyropoulos**, Undergraduate Research Fellowship, Auburn University, 2025-2026 
 13. **Md. Jahidul Arafat**, Presidential Graduate Research Fellowship Award, Auburn University, 2024 
