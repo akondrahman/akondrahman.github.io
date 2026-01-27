@@ -31,6 +31,9 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 News 
 ======
+- Jan 08, 2026: Our collaborative paper on policy as code at MSR got accepted.  
+- Dec 01, 2025: Our collaborative paper on container orchestration at NSDI got accepted.  
+- Sep 20, 2025: I was awarded the `Research Excellence Award` by the College of Engineering at Auburn University.  
 - June 22, 2025: I appeared on [WTVM](https://www.wtvm.com/2025/06/20/aflac-confirms-customers-data-breached-cyberattack/) to talk about the recent hack on Aflac. 
 - May 05, 2025: I presented at the Concordia University as an invited speaker.  
 - May 03, 2025: I presented a keynote at the `Software Vulnerability Management (SVM) Workshop`, co-located with  ICSE 2025. 
@@ -49,8 +52,6 @@ News
 - Nov 22, 2023: Our paper on Ansible security got accepted at the Empirical Software Engineering Journal (EMSE)! 
 - Nov 01, 2023: Our paper on compiler defects got accepted at ACM Computing Surveys (CSUR)! 
 - August 15, 2023: NSF has funded our project on container orchestration. This is my first CORE grant as the sole PI. Excited!     
-- May 25, 2023: I presented our work on Kubernetes security analysis to practitioners at [WindRiver](https://www.windriver.com/), on May 24, 2023.    
-- April 19, 2023: I will be leading a discussion panel at the `Empirical Evaluation of Secure Development Processes` Dagstuhl Seminar. Second time this year!   
 - April 06, 2023: Our paper got accepted at the IEEE Transactions on Software Engineering (TSE) Journal!   
 - March 30, 2023: Congrats to Brinto and Ruanak on their paper acceptance at the Empirical Software Engineering Journal (EMSE)!  
 - Feb 10, 2023: Our grant on software supply chain security was funded. Thanks NSA! 
