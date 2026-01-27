@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 News 
 ======
+- Jan 27, 2026: Yue's first PhD work got accepted at TSE. Congratulations to Yue! 
 - Jan 08, 2026: Our collaborative paper on policy as code at MSR got accepted.  
 - Dec 01, 2025: Our collaborative paper on container orchestration at NSDI got accepted.  
 - Sep 20, 2025: I was awarded the `Research Excellence Award` by the College of Engineering at Auburn University.  
@@ -41,14 +42,12 @@ News
 - April 04, 2025: Ayush successfully defended his M.Sc. thesis! Congratulations Ayush!!
 - April 03, 2025: Congratulations to my PhD student Pemsith on winning the CSSE Best Poster Award!     
 - April 01, 2025: My PhD student, Shamim's paper on Kubernetes security got accepted at FSE 2025! Congratulations Shamim!!    
-- December 01, 2024: My PhD student, Yue's paper on Kubernetes security configurations got accepted at Empirical Software Engineering Journal (EMSE)! Congratulations Yue!!    
+- December 01, 2024: My PhD student, Yue's paper on Julia security got accepted at Empirical Software Engineering Journal (EMSE)! Congratulations Yue!!    
 - November 01, 2024: My PhD student, Shamim's paper on Kubernetes security configurations got accepted at ICSE 2025! Congratulations Shamim!!    
 - August 31, 2024: Our collaborative paper on AI assistants got accepted at CCS 2024!   
 - August 22, 2024: Presented our Kubernetes-related research at the CAE-R community event.    
 - May 25, 2024: Congratulations to my second PhD student, Shamim on defending his PhD! He will start as a tenure-track assistant professor at Kennessaw State University. 
-- April 15, 2024: Congratulations to Sibat on his FSE paper acceptance! Well done!  
 - March 27, 2024: Congratulations to my PhD student Yue on winning the 100+ Women Strong Outstanding Departmental Annual Graduate Award! Well done, Yue !!  
-- Jan 20, 2024: Our paper on container orchestration smells got accepted at MSR 2024. Congrats to Yue, Rachel, and Wilson! 
 - Nov 22, 2023: Our paper on Ansible security got accepted at the Empirical Software Engineering Journal (EMSE)! 
 - Nov 01, 2023: Our paper on compiler defects got accepted at ACM Computing Surveys (CSUR)! 
 - August 15, 2023: NSF has funded our project on container orchestration. This is my first CORE grant as the sole PI. Excited!     
