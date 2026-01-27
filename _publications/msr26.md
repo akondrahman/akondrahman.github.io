@@ -5,7 +5,7 @@ permalink: /publication/msr26
 date: 2026-02-01
 venue: '23rd International Conference On Mining Software Repositories (MSR) 2026'
 paperurl: '/files/papers/msr26.pdf'
-authors: 
+authors: Ruben Opdebeeck, Mahmoud Alfadel, Akond Rahman, Yutaro Kashiwa, João F. Ferreira, Raula Gaikovina Kula, and Coen De Roover
 year: 2026
 index: 83
 --- 
