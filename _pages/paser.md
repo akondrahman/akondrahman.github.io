@@ -12,13 +12,12 @@ Advisees
 ======
 
 ##### Graduate Students 
-1. Md. Jahidul Arafat, PhD Student, Auburn University [Web]()
-2. Blade Arnold, M.Sc. Student, Auburn University [Web]()
-3. Loi Huynh, PhD Student, Auburn University [Web]()
-4. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
-5. Yinka Peter, PhD Student, Auburn University [Web]()
-6. Arpan Srivastava, PhD Student, Auburn University [Web]()
-7. Yue Zhang, PhD Student, Auburn University [Web](https://zyue110026.github.io/)
+1. Blade Arnold, M.Sc. Student, Auburn University [Web]()
+2. Loi Huynh, PhD Student, Auburn University [Web]()
+3. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
+4. Yinka Peter, PhD Student, Auburn University [Web]()
+5. Arpan Srivastava, PhD Student, Auburn University [Web]()
+6. Yue Zhang, PhD Student, Auburn University [Web](https://zyue110026.github.io/)
 
 <!--
 ##### Undergraduate Students
@@ -51,10 +50,9 @@ Alumni
 
 Noteworthy Achievements of PASERs 
 ======
-16. **Akond Rahman**, Research Excellence Award, College of Engineering, Auburn University, 2025
-15. **Pemsith Mendis**, CSSE Best Poster Presentation Award, Auburn University, 2025
-14. **Christos Argyropoulos**, Undergraduate Research Fellowship, Auburn University, 2025-2026 
-13. **Md. Jahidul Arafat**, Presidential Graduate Research Fellowship Award, Auburn University, 2024 
+15. **Akond Rahman**, Research Excellence Award, College of Engineering, Auburn University, 2025
+14. **Pemsith Mendis**, CSSE Best Poster Presentation Award, Auburn University, 2025
+13. **Christos Argyropoulos**, Undergraduate Research Fellowship, Auburn University, 2025-2026 
 12. **Yue Zhang**, 100+ Women Strong Outstanding Departmental Annual Graduate Award, Auburn University, 2024 
 11. **Yue Zhang**, Gavin Graduate Student Fellow, 2023-2026 
 10. **Shazibul Islam Shamim**, Bronze Award, Student Research Competition, ESEC/FSE 2021 
