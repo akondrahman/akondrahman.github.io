@@ -2,7 +2,7 @@
 title: "Configuration Defects in Kubernetes"
 collection: publications
 permalink: /publication/tse26
-date: 2026-02-15
+date: 2026-04-14
 venue: 'IEEE Transactions on Software Engineering (TSE)'
 paperurl: '/files/papers/tse26.pdf'
 authors: Yue Zhang, Ucchwas Paul, Marcelo d' Amorim, and Akond Rahman

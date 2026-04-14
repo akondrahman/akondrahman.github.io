@@ -2,10 +2,10 @@
 title: "Large Language Models for IT Automation Tasks: Are We There Yet?"
 collection: publications
 permalink: /publication/acl26
-date: 2026-04-20
+date: 2026-04-01
 venue: 'The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)'
 paperurl: '/files/papers/acl26.pdf'
-authors: Md. Mahadi Hassan, John Salvador, Akond Ashfaque Ur Rahman, and Santu Karmaker 
+authors: Md. Mahadi Hassan, John Salvador, Akond Rahman, and Santu Karmaker 
 year: 2026
 index: 85
 --- 
