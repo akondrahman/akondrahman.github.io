@@ -31,15 +31,14 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 News 
 ======
+- Apr 07, 2026: Our paper on an execution-based benchmark for Ansible-based IT automation tasks got accepted to ACL Findings. Congratulations to Sibat! 
 - Jan 27, 2026: Yue's first PhD work got accepted at TSE. Congratulations to Yue! 
 - Jan 08, 2026: Our collaborative paper on policy as code at MSR got accepted.  
-- Dec 01, 2025: Our collaborative paper on container orchestration at NSDI got accepted.  
+- Dec 01, 2025: Our collaborative paper on container orchestration at NSDI got accepted. Congrats to Tyler!  
 - Sep 20, 2025: I was awarded the `Research Excellence Award` by the College of Engineering at Auburn University.  
 - June 22, 2025: I appeared on [WTVM](https://www.wtvm.com/2025/06/20/aflac-confirms-customers-data-breached-cyberattack/) to talk about the recent hack on Aflac. 
-- May 05, 2025: I presented at the Concordia University as an invited speaker.  
 - May 03, 2025: I presented a keynote at the `Software Vulnerability Management (SVM) Workshop`, co-located with  ICSE 2025. 
-- April 08, 2025: Anita successfully defended his M.Sc. thesis! Congratulations Anita!!    
-- April 04, 2025: Ayush successfully defended his M.Sc. thesis! Congratulations Ayush!!
+- April 04, 2025: Ayush successfully defended his M.Sc. thesis! Congratulations Ayush!
 - April 03, 2025: Congratulations to my PhD student Pemsith on winning the CSSE Best Poster Award!     
 - April 01, 2025: My PhD student, Shamim's paper on Kubernetes security got accepted at FSE 2025! Congratulations Shamim!!    
 - December 01, 2024: My PhD student, Yue's paper on Julia security got accepted at Empirical Software Engineering Journal (EMSE)! Congratulations Yue!!    
@@ -50,14 +49,14 @@ News
 - March 27, 2024: Congratulations to my PhD student Yue on winning the 100+ Women Strong Outstanding Departmental Annual Graduate Award! Well done, Yue !!  
 - Nov 22, 2023: Our paper on Ansible security got accepted at the Empirical Software Engineering Journal (EMSE)! 
 - Nov 01, 2023: Our paper on compiler defects got accepted at ACM Computing Surveys (CSUR)! 
-- August 15, 2023: NSF has funded our project on container orchestration. This is my first CORE grant as the sole PI. Excited!     
+- August 15, 2023: NSF has funded our project on container orchestration. This is my first NSF grant as the sole PI. Excited!     
 - April 06, 2023: Our paper got accepted at the IEEE Transactions on Software Engineering (TSE) Journal!   
 - March 30, 2023: Congrats to Brinto and Ruanak on their paper acceptance at the Empirical Software Engineering Journal (EMSE)!  
 - Feb 10, 2023: Our grant on software supply chain security was funded. Thanks NSA! 
+- Jan 15, 2023: Our SATC grant was funded. Thanks NSF! 
 - Nov 26, 2022: Congrats to Shamim and Brinto on their paper acceptance at the ACM Transactions on Software Engineering and Methodology (TOSEM). 
 - Sep 20, 2022: Congrats to Farzana on her first transactions journal (ACM Transactions on Privacy and Security)!  
 - Aug 01, 2022: Started as a tenure-track assistant professor at Auburn University.  
-- June 15, 2022: Our SATC grant was funded. Thanks NSF! 
 - May 05, 2022: Congratulations to Farzana for successfully defending their Ph.D. thesis.  
 
 
