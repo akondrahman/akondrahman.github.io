@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/acl26
 date: 2026-04-05
 venue: 'The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)'
-paperurl: 'https://arxiv.org/abs/2505.20505'
+paperurl: '/files/papers/acl26.pdf'
 authors: Md. Mahadi Hassan, John Salvador, Akond Rahman, and Santu Karmaker 
 year: 2026
 index: 85
