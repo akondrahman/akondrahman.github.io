@@ -31,7 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 News 
 ======
-- Apr 07, 2026: Our paper on an execution-based benchmark for Ansible-based IT automation tasks got accepted to ACL Findings. Congratulations to Sibat! 
+- Apr 07, 2026: Our paper on an execution-based benchmark for Ansible-related IT automation tasks got accepted to ACL Findings. Congratulations to Sibat! 
 - Jan 27, 2026: Yue's first PhD work got accepted at TSE. Congratulations to Yue! 
 - Jan 08, 2026: Our collaborative paper on policy as code at MSR got accepted.  
 - Dec 01, 2025: Our collaborative paper on container orchestration at NSDI got accepted. Congrats to Tyler!  
