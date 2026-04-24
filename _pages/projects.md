@@ -7,9 +7,84 @@ author_profile: true
 
 The **P**ractical and **A**ctionable **S**oftware **E**ngineering **R**esearch (**PASER**) group at Auburn University is currently pursuing the following research projects. 
 
+Resilient Container Orchestration 
+======
+
+Abstract
+---
+
+Container technologies, such as Docker and LXC are gaining popularity amongst information technology (IT) organizations for deploying software applications. For example, PayPal uses 200,000 containers to manage 700 software applications. For managing these containers at scale, practitioners often use automated container orchestration, i.e, the practice of pragmatically managing the lifecycle of containers with tools, such as Docker Swarm and Kubernetes. As part of this project we are investigating how to help practitioners for resilient container orchestration. As part of this project, we will accomplish three tasks: (i) detecting and repairing security misconfigurations that occur in configuration files used for container orchestration; (ii) build the science of routing-related defects; and (iii) construct education modules to help next generation practitioners in secure and resilient container orchestration.    
 
 
-eSLIC: Enhanced Security Static Analysis for Configuration Scripts
+Relevant Peer-reviewed Publications 
+---
+- [ACL 2026](https://arxiv.org/abs/2505.20505)
+- [NSDI 2026](https://akondrahman.github.io/files/papers/nsdi26.pdf)
+- [TSE 2026](https://akondrahman.github.io/files/papers/tse26.pdf)
+- [MSR 2026](https://akondrahman.github.io/files/papers/msr26.pdf)
+- [CauSE 2025](https://akondrahman.github.io/files/papers/cause25.pdf)
+- [FSE 2025](https://akondrahman.github.io/files/papers/fse25.pdf)
+- [ICSE 2025](https://akondrahman.github.io/files/papers/icse25-k8s.pdf)
+- [FSE 2024](https://akondrahman.github.io/files/papers/fse2024-iac.pdf)
+- [MSR 2024](/files/papers/k8s-msr2024.pdf)
+- [TOSEM 2023](/files/papers/tosem-k8s.pdf)
+- [CSEET 2025](https://akondrahman.github.io/files/papers/cseet25.pdf)
+- [SecDev 2020](https://arxiv.org/pdf/2006.15275.pdf)
+- [ENCYCRIS 2021](/files/papers/k8s-encycris2021.pdf)
+
+
+
+
+Datasets and Software
+---
+- [Benchmark: EXITBench](https://github.com/paser-group/llm-for-iac)
+- [Dataset: State Reconciliation Defects](https://doi.org/10.6084/m9.figshare.24129996)
+- [Dataset: Defects in Kubernetes Configuration Scripts](https://doi.org/10.6084/m9.figshare.26511229)
+- [Software: ConShifu](https://hub.docker.com/r/zyue110026/conshifu-tool)
+- [Dataset: Container Orchestration Smells for ChatGPT-generated Kubernetes Manifests](https://doi.org/10.6084/m9.figshare.24786711.v1) 
+- [Software: SLI-KUBE](https://hub.docker.com/r/akondrahman/sli-kube) 
+- [Dataset: Security Misconfiguration in Kubernetes Manifests](https://doi.org/10.6084/m9.figshare.17425478.v3) 
+- [Dataset: Vulnerability-related Commits](https://doi.org/10.6084/m9.figshare.13447796.v1)  
+
+Funding Source
+---
+[NSF CORE:SHF: Award - 2312321](https://nsf.gov/awardsearch/showAward?AWD_ID=2312321&HistoricalAwards=false)
+
+
+
+Secure Development and Deployment of Machine Learning Projects 
+======
+
+Abstract
+---
+The ubiquitous use of machine learning necessitates to make the development process secure. In this project we are exploring so strategies used to secure the development process for traditional software engineering can also be integrated in machine learning development. In particular, we are investigating (i) how to perform logging to diagnose adversarial machine learning attacks and formally verify security specifications in machine learning implementations, (ii) common security weaknesses in machine learning source code, and (iii) identifying testing best practices for automating machine learning deployments.  
+
+Relevant Peer-reviewed Publications 
+---
+- [Empirical Software Engineering (EMSE) 2025](https://akondrahman.github.io/files/papers/emse25.pdf)
+- [SVM @ ICSE2025](https://akondrahman.github.io/files/papers/svm25.pdf)
+- [ACM TOPS 2022](/files/papers/tops2022.pdf)
+- [AI/ML @ COMPSAC2022](/files/papers/bots-mlops2022.pdf)
+- [COMPSAC2022](/files/papers/compsac2022-ml.pdf)
+- [ENCYCRIS2021](/files/papers/strategy-encycris2021.pdf)
+- [HCSE2020](/files/papers/strategy-hcse2020.pdf)
+- [HOTSOS2020](/files/papers/hotsos2020_strategy.pdf)
+
+
+Datasets and Software
+---
+- [Dataset: Vulnerbailities in ML Deployment](https://doi.org/10.6084/m9.figshare.27068851)
+- [Software: JSAT](https://github.com/paser-group/JuliaSecurity)
+- [Dataset: Security Weaknesses in Julia Programs](https://figshare.com/s/0e2c77afd8215cbd3be2)
+- [Dataset: Defects in Julia Projects](https://doi.org/10.6084/m9.figshare.12989552)
+- [Software: LOPSUL for Python-based Open Source ML Projects](https://github.com/paser-group/MLForensics) 
+- [Dataset: Security Weaknesses in Open Source ML Projects](https://figshare.com/s/86bea428698b103afb32) 
+
+Funding Source
+---
+[NSF SaTC: Award - 2310179](https://nsf.gov/awardsearch/showAward?AWD_ID=2310179&HistoricalAwards=false)
+
+Enhanced Security Analysis for Configuration Scripts
 ======
 
 Abstract 
@@ -19,6 +94,8 @@ The project will focus on the development of techniques and tools that will auto
 
 Relevant Peer-reviewed Publications 
 ---
+- [ACL 2026](https://arxiv.org/abs/2505.20505)
+- [FSE 2024](https://akondrahman.github.io/files/papers/fse2024-iac.pdf)
 - [EMSE 2024](/files/papers/emse2024-taintible.pdf)
 - [TSE 2023](/files/papers/tse2023-taintpup.pdf)
 - [SecDev 2023](/files/papers/secdev2023.pdf)
@@ -36,12 +113,15 @@ Relevant Peer-reviewed Publications
 
 Datasets and Software
 ---
-- [TIDAL for Ansible](https://github.com/paser-group/TIDAL/tree/master)
-- [TaintPup for Puppet](https://github.com/paser-group/TaintPup)
-- [TAMA for Ansible](https://hub.docker.com/r/talismanic/tama)
-- [ACID for Puppet](https://hub.docker.com/repository/docker/akondrahman/acid-puppet)
-- [SLAC for Ansible](https://hub.docker.com/r/akondrahman/slic_ansible)
-- [SLIC for Puppet](https://hub.docker.com/r/akondrahman/ruby_for_sp)
+- [Benchmark: EXITBench](https://github.com/paser-group/llm-for-iac)
+- [Dataset: State Reconciliation Defects](https://doi.org/10.6084/m9.figshare.24129996)
+- [Dataset: Taint Tracking Dataset for Puppet](https://figshare.com/s/30a15335e471dfbb2075)
+- [Software: TIDAL for Ansible](https://github.com/paser-group/TIDAL/tree/master)
+- [Software: TaintPup for Puppet](https://github.com/paser-group/TaintPup)
+- [Software: TAMA for Ansible](https://hub.docker.com/r/talismanic/tama)
+- [Software: ACID for Puppet](https://hub.docker.com/repository/docker/akondrahman/acid-puppet)
+- [Software: SLAC for Ansible](https://hub.docker.com/r/akondrahman/slic_ansible)
+- [Software: SLIC for Puppet](https://hub.docker.com/r/akondrahman/ruby_for_sp)
 - [Education Materials for the `Secure Software Development` Course](https://hub.docker.com/repository/docker/akondrahman/sec-soft-edu-materials)
 
 
@@ -49,62 +129,6 @@ Funding Source
 ---
 - [NSF SaTC: Award - 2247141](https://nsf.gov/awardsearch/showAward?AWD_ID=2247141&HistoricalAwards=false)
 - NSA Award - H98230-21-1-0175
-
-Resilient Container Orchestration 
-======
-
-Abstract
----
-
-Container technologies, such as Docker and LXC are gaining popularity amongst information technology (IT) organizations for deploying software applications. For example, PayPal uses 200,000 containers to manage 700 software applications. For managing these containers at scale, practitioners often use automated container orchestration, i.e, the practice of pragmatically managing the lifecycle of containers with tools, such as Docker Swarm and Kubernetes. As part of this project we are investigating how to help practitioners for resilient container orchestration. As part of this project, we will accomplish three tasks: (i) detecting and repairing security misconfigurations that occur in configuration files used for container orchestration; (ii) build the science of routing-related defects; and (iii) construct education modules to help next generation practitioners in secure and resilient container orchestration.    
-
-
-Relevant Peer-reviewed Publications 
----
-- [MSR 2024](/files/papers/k8s-msr2024.pdf)
-- [TOSEM 2023](/files/papers/tosem-k8s.pdf)
-- [ENCYCRIS 2021](/files/papers/k8s-encycris2021.pdf)
-- [SecDev 2020](https://arxiv.org/pdf/2006.15275.pdf)
-
-
-Datasets and Software
----
-- [Dataset: Container Orchestration Smells for ChatGPT-generated Kubernetes Manifests](https://doi.org/10.6084/m9.figshare.24786711.v1) 
-- [Software: SLI-KUBE](https://hub.docker.com/r/akondrahman/sli-kube) 
-- [Dataset: Security Misconfiguration in Kubernetes Manifests](https://doi.org/10.6084/m9.figshare.17425478.v3) 
-- [Dataset: Vulnerability-related Commits](https://doi.org/10.6084/m9.figshare.13447796.v1)  
-
-Funding Source
----
-[NSF CORE:SHF: Award - 2312321](https://nsf.gov/awardsearch/showAward?AWD_ID=2312321&HistoricalAwards=false)
-
-
-
-Secure Development of Machine Learning Projects 
-======
-
-Abstract
----
-The ubiquitous use of machine learning necessitates to make the development process secure. In this project we are exploring so strategies used to secure the development process for traditional software engineering can also be integrated in machine learning development. In particular, we are investigating (i) how to perform logging to diagnose adversarial machine learning attacks and formally verify security specifications in machine learning implementations, (ii) common security weaknesses in machine learning source code, and (iii) identifying testing best practices for automating machine learning deployments.  
-
-Relevant Peer-reviewed Publications 
----
-- [ACM TOPS 2022](/files/papers/tops2022.pdf)
-- [AI/ML @ COMPSAC2022](/files/papers/bots-mlops2022.pdf)
-- [COMPSAC2022](/files/papers/compsac2022-ml.pdf)
-- [ENCYCRIS2021](/files/papers/strategy-encycris2021.pdf)
-- [HCSE2020](/files/papers/strategy-hcse2020.pdf)
-- [HOTSOS2020](/files/papers/hotsos2020_strategy.pdf)
-
-
-Datasets and Software
----
-- [LOPSUL for Python-based Open Source ML Projects](https://github.com/paser-group/MLForensics) 
-- [Security Weakness Dataset for Open Source ML Projects](https://figshare.com/s/86bea428698b103afb32) 
-
-Funding Source
----
-[NSF SaTC: Award - 2310179](https://nsf.gov/awardsearch/showAward?AWD_ID=2310179&HistoricalAwards=false)
 
 
 <!-- Building the Foundations of Validation for the Julia Ecosystem 

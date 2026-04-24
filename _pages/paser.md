@@ -13,30 +13,28 @@ Advisees
 
 ##### Graduate Students 
 1. Blade Arnold, M.Sc. Student, Auburn University [Web]()
-2. Loi Huynh, PhD Student, Auburn University [Web]()
-3. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
-4. Yinka Peter, PhD Student, Auburn University [Web]()
-5. Arpan Srivastava, PhD Student, Auburn University [Web]()
-6. Yue Zhang, PhD Student, Auburn University [Web](https://zyue110026.github.io/)
+2. Caleb Bennett, PhD Student, Auburn University [Web]()
+3. Loi Huynh, PhD Student, Auburn University [Web]()
+4. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
+5. Yinka Peter, PhD Student, Auburn University [Web]()
+6. Arpan Srivastava, PhD Student, Auburn University [Web]()
+7. Yue Zhang, PhD Student, Auburn University [Web](https://zyue110026.github.io/)
 
-<!--
+
 ##### Undergraduate Students
-1. Hayden Walker, Undergraduate Student, Auburn University [Web]()
-2. Christos Argyropoulos, Undergraduate Student, Auburn University [Web]()
--->
+1. Ainsley McLeod, Auburn University [Web]()
+
 
 
 Collaborators
 ======
-1. Rahul Pandita, Staff Researcher, GitHub, USA [Web](http://rahulpandita.me/)
-2. Stacy Prowell, Distinguished Researcher, Oak Ridge National Lab, TN [Web](https://www.ornl.gov/staff-profile/stacy-j-prowell)
-3. Shubhra Kanti Karmaker Santu, Assistant Professor, Auburn University [Web](https://karmake2.github.io/)
-4. Hossain Shahriar, Associate Director, Center for Cybersecurity, University of West Florida [Web](https://scholar.google.com/citations?user=Nl3_svsAAAAJ&hl=en)
-5. Fan Wu, Head and Professor of the Computer Science Department, Tuskegee University, Tuskegee, AL [Web](https://www.tuskegee.edu/programs-courses/colleges-schools/cbis/computer-science/computer-science-faculty-staff/wu-fan-phd)
+1. Ali Babar, Professor, School of Computer Science and Information Technology, University of Adelaide [Web](https://researchers.adelaide.edu.au/profile/ali.babar)
+1.  Hossain Shahriar, Associate Director, Center for Cybersecurity, University of West Florida [Web](https://scholar.google.com/citations?user=Nl3_svsAAAAJ&hl=en)
+2. Tianyin Xu, Associate Professor, Department of Computer Science, University of Illinois at Urbana-Champaign [Web](https://tianyin.github.io/index.html)
 
 Alumni
 ======
-1. Farzana Ahmed Bhuiyan (PhD), first appointment as `research scientist` at [Meta (formerly known as Facebook)](https://facebook.com)
+1. Farzana Ahmed Bhuiyan (PhD), first appointment as `research scientist` at [Meta](https://facebook.com)
 2. Shazibul Islam Shamim, (PhD), first appointment as `tenure-track assistant professor` at [Kennessaw State University](https://scholar.google.com/citations?user=DkM2G5cAAAAJ&hl=en)
 3. Dibyendu Brinto Bose (BSc), first appointment as `PhD student` at [Virginia Tech](https://cs.vt.edu/)
 4. Carlos Medrano (BSc), first appointment as `site reliability engineer` at [Google](https://sre.google/)
@@ -69,9 +67,17 @@ Noteworthy Achievements of PASERs
 
 Open Source Software
 ======
+10. [ConShifu](https://hub.docker.com/r/zyue110026/conshifu-tool)
+9. [JSAT](https://github.com/paser-group/JuliaSecurity)
+8. [TIDAL for Ansible](https://github.com/paser-group/TIDAL/tree/master)
+7. [TaintPup for Puppet](https://github.com/paser-group/TaintPup)
 6. [SLI-KUBE for Kubernetes Manifests](https://github.com/paser-group/KubeSec) 
 5. [LOPSUL for Python-based Open Source ML Projects](https://github.com/paser-group/MLForensics) 
 4. [TAMA for Ansible](https://hub.docker.com/r/talismanic/tama)
 3. [SLAC for Ansible](https://hub.docker.com/r/akondrahman/slic_ansible)
 2. [SLIC for Puppet](https://hub.docker.com/r/akondrahman/ruby_for_sp)
 1. [ACID for Puppet](https://hub.docker.com/r/akondrahman/acid-puppet)
+
+Benchmarks
+======
+1. [EXITBench](https://github.com/paser-group/llm-for-iac) 
