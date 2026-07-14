@@ -7,8 +7,8 @@ venue: '23rd International Conference On Mining Software Repositories (MSR) 2026
 paperurl: '/files/papers/msr26.pdf'
 authors: Ruben Opdebeeck, Mahmoud Alfadel, Akond Rahman, Yutaro Kashiwa, João F. Ferreira, Raula Gaikovina Kula, and Coen De Roover
 year: 2026
-index: 83
---- 
+index: 84
+---
 Policy as Code (PaC) is an emerging DevOps practice that enables teams to specify organisational and technical policies, such as regulatory compliance, security requirements, and resource limits, through machine-enforceable declarative code.
 As PaC gains prominence, practitioners face difficulties in adopting PaC while there remains a limited empirical understanding of how these policies are introduced, what types can be expressed, and how they are maintained in practice.
 
