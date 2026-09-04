@@ -16,9 +16,10 @@ Advisees
 2. Caleb Bennett, PhD Student, Auburn University [Web]()
 3. Loi Huynh, PhD Student, Auburn University [Web]()
 4. Pemsith Mendis, PhD Student, Auburn University [Web](https://pemsithmendis.com/)
-5. Yinka Peter, PhD Student, Auburn University [Web]()
+5. Peter Akinwusi, PhD Student, Auburn University [Web]()
 6. Arpan Srivastava, PhD Student, Auburn University [Web]()
-7. Yue Zhang, PhD Student, Auburn University [Web](https://zyue110026.github.io/)
+7. Yuxuan Wang, PhD Student, Auburn University [Web]()
+8. Yue Zhang, PhD Student, Auburn University [Web](https://zyue110026.github.io/)
 
 
 ##### Undergraduate Students
