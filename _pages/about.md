@@ -31,6 +31,7 @@ I completed my PhD in Computer Science at [North Carolina State University](http
 
 News 
 ======
+- Oct 30, 2026: My ONR grant on generative AI was awarded!  
 - Sep 15, 2026: Our collaborative paper on prompt characterestics got accepted at TSE! 
 - Apr 07, 2026: Our paper on an execution-based benchmark for Ansible-related IT automation tasks got accepted to ACL Findings. Congratulations to Sibat! 
 - Jan 27, 2026: Yue's first PhD work got accepted at TSE. Congratulations to Yue! 
@@ -63,4 +64,4 @@ News
 
 Sponsors 
 ======
-![NSF](files/nsf.png){:width="10%" height="10%"}       ![NSA](files/nsa.png){:width="9%" height="7%"}    ![GI](files/griffis.png){:width="12%" height="12%"} 
+![NSF](files/nsf.png){:width="10%" height="10%"}       ![NSA](files/nsa.png){:width="9%" height="7%"}  ![ONR](files/onr.png){:width="12%" height="12%"}   ![GI](files/griffis.png){:width="12%" height="12%"} 
